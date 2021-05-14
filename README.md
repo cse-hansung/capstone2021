@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# 2021 한성대학교 컴퓨터공학부 캡스톤 온라인 발표회
+## 일정
+- 오전10시-12시: 사전 녹화된 팀별 동영상 감상
+- 오후1시-오후4시: 팀별 Youtube Live에 접속하여 질의 응답, 추가 시연 요청 가능
 
-You can use the [editor on GitHub](https://github.com/cse-hansung/capstone2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 심사위원 안내
+- 해당 분야의 작품의 발표 동영상과 Live에 참여하여 질의 응답과 격려 해주시고 평가 점수를 온라인 발표가 끝난 후 제출해주시면 됩니다
+- 점수는 온라인 폼에 입력해주시면 됩니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 학생 참관 안내
+- 누구나 자유롭게 참관할 수 있습니다.
+- Live에 참여하여 마음에 드는 작품에 "좋아요"를 눌러주세요.
 
-### Markdown
+## Mobile 분야 입장
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Big-data 분야
 
-```markdown
-Syntax highlighted code block
+## Web 분야
 
-# Header 1
-## Header 2
-### Header 3
+## AR/VR 분야
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cse-hansung/capstone2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 문의
+- 한성대학교 컴퓨터공학부 행정실
