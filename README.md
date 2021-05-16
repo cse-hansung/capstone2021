@@ -13,7 +13,7 @@
 
 ## [Mobile 분야 입장](mobile.md)
 
-## [Big-data 분야 입장](bigdata.md)
+## [AI, Big-data 분야 입장](bigdata.md)
 
 ## [Web 분야 입장](web.md)
 
