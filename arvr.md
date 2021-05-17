@@ -1,8 +1,12 @@
 ## AR/VR, 게임 분야
 
-### 4. 팀명, 제목
-- 윤석진
+### 4. 짬뽕, Jetkick
+- 상대방의 자동차를 밖으로 밀어서 마지막까지 생존하는 게임
+- **윤석진**, 강보훈, 김기현, 박재빈
 - 김진모 교수님
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/7yD4BIZHV4s/0.jpg)](https://www.youtube.com/watch?v=7yD4BIZHV4s)
+- [YouTube Live](https://www.youtube.com/channel/UCrpEBR4msMaax3mT5AAdiJQ)
 
 ### 7. 팀명, 제목
 - 민경환  
