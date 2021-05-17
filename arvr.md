@@ -16,9 +16,13 @@
 - 추후 추가 
 - [YouTube Live](https://www.youtube.com/channel/UCXaN6LgIeujqTiPHC_vxJNQ)
 
-### 9. 팀명, 제목
-- 김사라 
+### 9. 성원사람, HSB
+- 최적의 경로로 빠르고 쉽게 책을 찾을 수 있는 증강현실을 이용한 도서관 스마트 시스템 
+- **김사라**, 양우성, 오아람, 허예원
 - 계희원 교수님
+- YouTube 동영상 <br>
+- 추후 추가
+- [YouTube Live](https://youtu.be/wAxoaLjlpGs) 
 
 ### 23. 팀명, 제목
 - 권혁우 
