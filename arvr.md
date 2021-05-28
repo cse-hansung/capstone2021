@@ -2,6 +2,7 @@
 
 ### 4. 짬뽕, Jetkick
 - 상대방의 자동차를 밖으로 밀어서 마지막까지 생존하는 게임
+- [GitHub Link](https://github.com/champon-capstone/jetkick)
 - **윤석진**, 강보훈, 김기현, 박재빈
 - 김진모 교수님
 - YouTube 동영상 <br>
