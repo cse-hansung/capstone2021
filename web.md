@@ -12,9 +12,13 @@
 - 조하영
 - 김남윤 교수님
 
-### 11. 팀명, 제목
-- 최태현
+### 11. DOSIRAK, 매장 관리 및 재고 조회 프로그램
+- **최태현**, 김승현, 김희원, 이훈노
 - 강희중 교수님
+- [GitHub Link](https://github.com/gnssh606/DOSIRAK)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/eH0bYajlFfI/0.jpg)](https://www.youtube.com/watch?v=eH0bYajlFfI)
+- [YouTube Live](https://www.youtube.com/watch?v=eH0bYajlFfI)
 
 ### 12. 팀명, 제목
 - 김도형
