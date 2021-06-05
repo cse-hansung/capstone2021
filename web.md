@@ -20,8 +20,9 @@
 [![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/eH0bYajlFfI/0.jpg)](https://www.youtube.com/watch?v=eH0bYajlFfI)
 - [YouTube Live](https://www.youtube.com/watch?v=eH0bYajlFfI)
 
-### 12. 팀명, 제목
-- 김도형
+### 12. 살고싶다, 사용자 맟춤형 부동산 서비스
+- 사용자가 원하는 인프라를 바탕으로 맞춤형 매물을 추천해주는 서비스
+- 김도형, 김민경, 박예린, 박유민
 - 황호영 교수님
 
 ### 20. 팀명, 제목
