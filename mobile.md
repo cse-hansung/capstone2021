@@ -57,7 +57,7 @@
 - 송희도	
 - 김진환 교수님
 
-### 41. 팀명, 제목
+### 41. 조각모음, foodstagram
 - 음식 인식 서비스	
 - https://github.com/hscapstonefoodstagram/
 - 안진기, 이경진, 양석진, 박동빈
