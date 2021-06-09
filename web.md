@@ -14,7 +14,7 @@
 - 김남윤 교수님
 - [GitHub Link](https://github.com/equipoida/CapstoneFinal)
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/aGJLXq6iFnY/0.jpg)](https://www.youtube.com/watch?v=aGJLXq6iFnY)
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/xTvoeX3piM0/0.jpg)](https://www.youtube.com/watch?v=xTvoeX3piM0)
 - [YouTube Live](https://www.youtube.com/watch?v=~~~~~~~~~~)
 
 ### 11. DOSIRAK, 매장 관리 및 재고 조회 프로그램
