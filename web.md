@@ -26,9 +26,12 @@
 - 김도형, 김민경, 박예린, 박유민
 - 황호영 교수님
 
-### 20. 팀명, 제목
-- 홍찬휘
+### 20. 모자돌(CapStone), 코로나 현황 및 정보 공유 웹 사이트
+- 홍찬휘, 장승현, 정한솔
 - 이석기 교수님
+- [GitHub Link](https://github.com/seunghyun-Jang/corona-inside)
+- YouTube 동영상 <br>
+- [YouTube Live]()
 
 ### 22. 팀명, 제목
 - 최영은
