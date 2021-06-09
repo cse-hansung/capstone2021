@@ -9,9 +9,13 @@
 - 이지은
 - 허준영 교수님
 
-### 5. 팀명, 제목
-- 조하영
+### 5. CMAN, 덕분에(의료 커뮤니티)
+- **조하영**, 김예원, 김한빛
 - 김남윤 교수님
+- [GitHub Link](https://github.com/equipoida/CapstoneFinal)
+- YouTube 동영상 <br>
+[![시작화면](https://user-images.githubusercontent.com/51710951/121298234-7d222380-c92e-11eb-873e-df47a971fc38.PNG)](https://youtu.be/xTvoeX3piM0)
+- [YouTube Live](https://youtu.be/xTvoeX3piM0)
 
 ### 11. DOSIRAK, 매장 관리 및 재고 조회 프로그램
 - **최태현**, 김승현, 김희원, 이훈노
