@@ -45,9 +45,13 @@
 - 강아영, 강희봄, 김도희, 오영준
 - 황호영 교수님
 
-### 34. 팀명, 제목
-- 유상환
+### 34. Hans, 한성대학교 챗봇
+- **유상환**, 김지민, 문재석, 최성우
 - 김성동 교수님
+- [GitHub Link](https://github.com/QuaintCoding/chatbot-dialogflow)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표]()]()
+- [YouTube Live]()
 
 ### 36. 팀명, 제목
 - 박윤하
