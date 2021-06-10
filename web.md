@@ -35,6 +35,7 @@
 - 이석기 교수님
 - [GitHub Link](https://github.com/seunghyun-Jang/corona-inside)
 - YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
 - [YouTube Live]()
 
 ### 22. 팀명, 제목
