@@ -32,6 +32,10 @@
 - 사용자가 원하는 인프라를 바탕으로 맞춤형 매물을 추천해주는 서비스
 - 김도형, 김민경, 박예린, 박유민
 - 황호영 교수님
+- [GitHub Link](https://github.com/salgosipda/Salgosipda)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://youtu.be/f3Ml7c4RU4E)
+- [YouTube Live]()
 
 ### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트		
 - 지서우, 김지훈, 이동협, 유영
