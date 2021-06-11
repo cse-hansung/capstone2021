@@ -33,7 +33,8 @@
 - 김도형, 김민경, 박예린, 박유민
 - 황호영 교수님
 - [GitHub Link](https://github.com/salgosipda/Salgosipda)
-- YouTube 동영상 <br> [![캡스톤 디자인 프로젝트 최종 발표]](https://youtu.be/f3Ml7c4RU4E)
+- YouTube 동영상 <br> 
+[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtu.be/vi/f3Ml7c4RU4E/0.jpg)](https://youtu.be/f3Ml7c4RU4E)
 - [YouTube Live]()
 
 ### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트		
