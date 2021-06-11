@@ -11,7 +11,7 @@
 - 지도교수: 김영웅 교수님
 - Youtube 동영상 <br/>
 [![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0/0.jpg)](https://www.youtube.com/watch?v=gJJ2HyT_Qq0)
-- [Youtube Live]()
+- [Youtube Live]( )
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
 - **이수연**, 최지호, 민경진, 이규영
