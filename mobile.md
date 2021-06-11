@@ -26,7 +26,9 @@
 - 엄종석 교수님
 
 ### 25. 팀명, 제목	
-- 유승원
+- 빅데이터 기반 미팅 장소 추천 애플리케이션
+- https://github.com/Capstone-Medium-Distance-App/Capstone-MDA-Android
+- 유승원, 심규도, 최재석, 구정훈
 - 정인환 교수님
 
 ### 27. 팀명, 제목	
