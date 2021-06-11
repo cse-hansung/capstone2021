@@ -60,9 +60,12 @@
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://www.youtube.com/watch?v=vNisqauU2_s)
 - [Youtube Live]() 
 
-### 45. 팀명, 제목
-- 이종인 
+### 45. fUnity, 제목
+- 박권재, 이종인, 설홍환, 김현중
 - 이항찬 교수님
+- 간단한 로그라이크형 RPG 게임
+- 추후 추가 예정
+- 
 
 ### 46. 팀명, 제목
 - 박준형 
