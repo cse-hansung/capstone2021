@@ -5,10 +5,12 @@
 - **김연지**, 이정현, 박종근, 최수진
 - 김남윤 교수님
 
-### 3. 팀명, 제목
+### 3. 개미스토밍, HealthU
+- AI 홈 트레이닝 웹 애플리케이션
 - **이지은**, 김소진, 김효진, 오소영
 - 허준영 교수님
-- AI Home Training Web Application
+- [GitHub Link](https://github.com/gaemistorming/Capstone-WEB)
+- [YouTube Live]
 
 ### 5. CMAN, 덕분에(의료 커뮤니티)
 - **조하영**, 김예원, 김한빛
