@@ -38,7 +38,7 @@
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
 - [YouTube Live]()
 
-### 22. 팀명, 제목
+### 22. We'Re Cycle, AI 서비스 제공 웹 애플리케이션
 - 최영은
 - 이석기 교수님
 
