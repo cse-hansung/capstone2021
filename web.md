@@ -33,9 +33,11 @@
 - 김도형, 김민경, 박예린, 박유민
 - 황호영 교수님
 
-### 18. 팀명, 제목
-- 지서우
+### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트		
+- 지서우, 김지훈, 이동협, 유영
 - 장재영 교수님
+- [GitHub Link](https://github.com/hsu18/Capstone)
+- [YouTube](https://www.youtube.com/watch?v=ACKWt6NZpBc)
 
 ### 20. 모자돌(CapStone), 코로나 현황 및 정보 공유 웹 사이트
 - 홍찬휘, 장승현, 정한솔
