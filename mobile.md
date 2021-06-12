@@ -35,8 +35,10 @@
 - 유승원, 심규도, 최재석, 구정훈
 - 정인환 교수님
 
-### 27. 팀명, 제목	
-- 김채린	
+### 27. 황제펭귄, 휴먼트랙킹을 위한 HW와 SW 구현	
+- RC카를 이용해 HW를 구현하고, ROS를 이용해 SW를 구현한다.
+- https://www.youtube.com/watch?v=VgEbZwg3mSQ&feature=youtu.be
+- 김채린, 유수미, 이승현
 - 황기태 교수님
 
 ### 28. 부키부키, BOOKI
