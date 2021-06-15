@@ -22,7 +22,7 @@
 - **김사라**, 양우성, 오아람, 허예원
 - 계희원 교수님
 - YouTube 동영상 <br>
-[![성원사람 캡스톤 디자인 발표](https://https://img.youtube.com/vi/_WLetIuQOFY/1.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
+[![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
 - [YouTube Live](https://www.youtube.com/channel/UCfqej15qHXjcRmfN8pBLH9w) 
 
 ### 23. Medical Web, Advanced PACS
