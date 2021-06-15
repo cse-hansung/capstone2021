@@ -22,8 +22,8 @@
 - **김사라**, 양우성, 오아람, 허예원
 - 계희원 교수님
 - YouTube 동영상 <br>
-- 추후 추가
-- [YouTube Live](https://youtu.be/wAxoaLjlpGs) 
+[![성원사람 캡스톤 디자인 발표](https://https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://youtu.be/_WLetIuQOFY)
+- [YouTube Live](https://www.youtube.com/channel/UCfqej15qHXjcRmfN8pBLH9w) 
 
 ### 23. Medical Web, Advanced PACS
 - 3D Rendering을 이용한 Advanced PACS(의료 영상 저장/전송 시스템)
