@@ -13,9 +13,8 @@
 - 좀비 아포칼립스에서 괴한들에게 납치된 아내를 구하러 가는 VR 게임
 - **민경환**, 김태건, 나상혁, 박찬형  
 - 김진모 교수님
-- YouTube 동영상 <br>
-- 추후 추가 
-- [YouTube Live](https://www.youtube.com/channel/UCXaN6LgIeujqTiPHC_vxJNQ)
+- [캡스톤 디자인 발표 영상](https://youtu.be/cADNHF9ddQo)
+- [YouTube Live](https://www.youtube.com/watch?v=HWuueJuS3YM)
 
 ### 9. 성원사람, HSB
 - 최적의 경로로 빠르고 쉽게 책을 찾을 수 있는 증강현실을 이용한 도서관 스마트 시스템 
