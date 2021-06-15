@@ -24,7 +24,7 @@
 - 성종현, 최민준, 김재현, 김태형
 - 정인환 교수님
 - youtube link<br/>
- [![image](https://user-images.githubusercontent.com/68458245/122096990-1e870900-ce4a-11eb-9317-d887c5600366.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
+ [![image](https://user-images.githubusercontent.com/68458245/122097516-bbe23d00-ce4a-11eb-815c-2542e6bb7900.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
 
 ### 21. 엄빌리버블(UMbelievable), 뒤집어집
 - 텍스트마이닝을 이용한 가구 온라인 고객 리뷰 분석 및 추천 웹사이트 
