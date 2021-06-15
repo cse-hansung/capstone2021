@@ -71,3 +71,5 @@
 - https://github.com/hscapstonefoodstagram/
 - 안진기, 이경진, 양석진, 박동빈
 - 정인환 교수님
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/Mds_CNL-UpE/0.jpg)](https://youtu.be/Mds_CNL-UpE)
