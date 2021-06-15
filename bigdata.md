@@ -29,7 +29,7 @@
 - 김지연, 김민경, 김정현, 박세희
 - 엄종석 교수님
 - youtube 영상<br/>
- [![제목](https://img.youtube.com/vi/_xDo0Zrx8K0/0.jpg)](https://www.youtube.com/watch?v=_xDo0Zrx8K0)
+ [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
 
 ### 26. 시니유니, 소분(소고기분류기)
 - 신재영.이지훈,이건희,윤지우
@@ -39,7 +39,7 @@
 ### 30. Michine running, 제목
 - 송현준, 김영우, 김초영, 서찬호
 - 최병수 교수님
- 
+
 ### 42. 팀명, 제목
 - 김주현
 - 정인상 교수님
