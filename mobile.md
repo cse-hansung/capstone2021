@@ -1,7 +1,10 @@
 ## 모바일 분야
 
 ### 2. 팀명, 제목	
-- **최연지**, 유정윤, 이나현, 정창하
+- 개인 맞춤형 주거지역 추천 애플리케이션
+- [Github Link](https://github.com/yeonjiChoi/CapstoneDesign)
+- 최연지, 유정윤, 이나현, 정창하
+- Youtube 동영상<br/>
 - 허준영 교수님
 
 ### 6. LockLock, 얼굴인식 스마트 도어락
