@@ -59,6 +59,8 @@
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
 - 송희도, 최명신, 강하영 신수진
+- https://github.com/Myeongsin05/Myeongsin05.git
+- youtube 영상
 - 김진환 교수님
 
 ### 41. 조각모음, foodstagram
