@@ -20,11 +20,11 @@
 
 ### 19. YOLO4, Eurecar
 - 딥러닝을 이용한 차량 추적, 사고 판단 알고리즘을 기반으로 한 스마트 주차장 서비스
-- - [Github Link](https://github.com/sjh50200/capstone.git)
+- [Github Link](https://github.com/sjh50200/capstone.git)
 - 성종현, 최민준, 김재현, 김태형
 - 정인환 교수님
 - youtube link<br/>
- [![제목](https://www.youtube.com/watch?v=makJdGuZ-TE)
+ [![image](https://user-images.githubusercontent.com/68458245/122096990-1e870900-ce4a-11eb-9317-d887c5600366.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
 
 ### 21. 엄빌리버블(UMbelievable), 뒤집어집
 - 텍스트마이닝을 이용한 가구 온라인 고객 리뷰 분석 및 추천 웹사이트 
