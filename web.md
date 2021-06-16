@@ -58,6 +58,8 @@
 ### 24. Pointer, React를 이용한 컴퓨터 공학부 내 트랙 추천
 - 강아영, 강희봄, 김도희, 오영준
 - 황호영 교수님
+- [GitHub Link](https://github.com/ayrdaz/testreact)
+- YouTube 6/17 업데이트 예정
 
 ### 31. Perfume Guide, K-Fragrantica (한국인에 맞춘 향수 정보/추천 사이트)
 - 김재혁, 김동규, 명선호, 박정인
