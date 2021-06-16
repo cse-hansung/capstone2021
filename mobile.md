@@ -22,11 +22,11 @@
 
 ### 15. 포니언즈, 나의 냉장고	
 - 텐서플로우를 이용한 식재료 인식 후 레시피 추천, 냉장고 식품 관리 app
-- [Github Link]()
+- [Github Link](https://github.com/nahyunie/my-refrigerator)
 - 진은혜, 심정현, 김수진, 최나현
 - 지도교수: 이재문 교수님
-- Youtube 동영상 ()
-- [Youtube Live]()
+- Youtube 동영상 (https://youtu.be/063iKSK1RfA)
+- [Youtube Live](https://youtu.be/va-Izk3M8w0)
 
 ### 17. Han.B, 제목	
 - 임재연, 윤희웅, 이송희, 임란알리프
