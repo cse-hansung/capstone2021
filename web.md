@@ -26,7 +26,7 @@
 - [GitHub Link](https://github.com/gnssh606/DOSIRAK)
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/6YcokBnyOJM/0.jpg)](https://www.youtube.com/watch?v=6YcokBnyOJM)
-- [YouTube Live](https://www.youtube.com/channel/UCo4Ra5JyZHTJxRcNcRahIOw)
+- [YouTube Live](https://www.youtube.com/watch?v=GkqBfKvWj-Q)
 
 ### 12. 살고싶다, 사용자 맟춤형 부동산 서비스
 - 사용자가 원하는 인프라를 바탕으로 맞춤형 매물을 추천해주는 서비스
