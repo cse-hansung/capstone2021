@@ -7,7 +7,7 @@
 - 김진모 교수님
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/7yD4BIZHV4s/0.jpg)](https://www.youtube.com/watch?v=7yD4BIZHV4s)
-- [YouTube Live](https://www.youtube.com/channel/UCrpEBR4msMaax3mT5AAdiJQ)
+- [YouTube Live](https://www.youtube.com/watch?v=_FBDSLkY76I)
 
 ### 7. 28주후, Stand Alone
 - 좀비 아포칼립스에서 괴한들에게 납치된 아내를 구하러 가는 VR 게임
