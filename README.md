@@ -11,7 +11,7 @@
 ## 학생 참관 안내
 - 누구나 자유롭게 참관할 수 있습니다.
 - 헌성대학교 재학생은 아래 링크에서 인기상 투표가 가능합니다.
-- https://forms.gle/PQC5qqUrcmQHJwdK9
+- [인기상 투표](https://forms.gle/PQC5qqUrcmQHJwdK9)
 
 ## [Mobile 분야 입장](mobile.md)
 
