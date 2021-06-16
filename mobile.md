@@ -1,11 +1,13 @@
 ## 모바일 분야
 
-### 2. 팀명, 제목	
-- 개인 맞춤형 주거지역 추천 애플리케이션
+### 2. 파토스, 주거지역 추천 서비스	
+- 개인 맞춤형 주거지역 추천 서비스
 - [Github Link](https://github.com/yeonjiChoi/CapstoneDesign)
 - 최연지, 유정윤, 이나현, 정창하
+- 지도교수: 허준영 교수님
 - Youtube 동영상<br/>
-- 허준영 교수님
+[![제목](https://img.youtube.com/vi/6YQ6p02MJDg/0.jpg)](https://www.youtube.com/watch?v=6YQ6p02MJDg)
+- [Youtube Live]()
 
 ### 6. LockLock, 얼굴인식 스마트 도어락
 - 얼굴인식 스마트 도어락과 애플리케이션
