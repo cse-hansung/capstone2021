@@ -4,6 +4,9 @@
 - 웹 기반 키오스크 및 매장 관리 서비스
 - **김연지**, 이정현, 박종근, 최수진
 - 김남윤 교수님
+- [GitHub Link](https://github.com/coding-Benny/NTACT/wiki)
+- YouTube 동영상 <br>[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/Jv8nx1BdveI/0.jpg)](https://youtu.be/Jv8nx1BdveI)
+    - [YouTube Live](https://www.youtube.com/channel/UCTWmemrar1jN33eehCzSD2Q)
 
 ### 3. 개미스토밍, HealthU
 - AI 홈 트레이닝 웹 애플리케이션
