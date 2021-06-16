@@ -10,9 +10,13 @@
 - 이예찬
 - 이동희 교수님
 
-### 14. FADO, 제목
-- 박샛별
+### 14. FADO, 주식 데이터 시각화 서비스
+- 주식 투자자를 위한 기업 데이터 시각화 웹 사이트
+- 박샛별, 박예진, 배연지, 이지영
 - 김영웅 교수님
+- youtube <br/>
+ [![youtube](https://img.youtube.com/vi/8RY9T0TfvYc/0.jpg)](https://www.youtube.com/watch?v=8RY9T0TfvYc)
+
 
 ### 16. Spider, Eye2I
 - 이규, 김민경, 박효은, 최재혁
