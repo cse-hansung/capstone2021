@@ -19,6 +19,7 @@
 ### 9. 성원사람, HSB
 - 최적의 경로로 빠르고 쉽게 책을 찾을 수 있는 증강현실을 이용한 도서관 스마트 시스템 
 - **김사라**, 양우성, 오아람, 허예원
+- [GitHub Link](https://github.com/diddntjd99/ARLibrary)
 - 계희원 교수님
 - YouTube 동영상 <br>
 [![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
