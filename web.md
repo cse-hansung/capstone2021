@@ -25,8 +25,8 @@
 - 강희중 교수님
 - [GitHub Link](https://github.com/gnssh606/DOSIRAK)
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/eH0bYajlFfI/0.jpg)](https://www.youtube.com/watch?v=eH0bYajlFfI)
-- [YouTube Live](https://www.youtube.com/watch?v=eH0bYajlFfI)
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/6YcokBnyOJM/0.jpg)](https://www.youtube.com/watch?v=6YcokBnyOJM)
+- [YouTube Live](https://www.youtube.com/watch?v=GkqBfKvWj-Q)
 
 ### 12. 살고싶다, 사용자 맟춤형 부동산 서비스
 - 사용자가 원하는 인프라를 바탕으로 맞춤형 매물을 추천해주는 서비스
@@ -59,9 +59,10 @@
 - 강아영, 강희봄, 김도희, 오영준
 - 황호영 교수님
 
-### 31. 팀명, 제목
+### 31. Perfume Guide, K-Fragrantica (한국인에 맞춘 향수 정보/추천 사이트)
 - 김재혁, 김동규, 명선호, 박정인
 - 권영미 교수님
+- [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
 
 ### 34. Hans, 한성대학교 챗봇
 - **유상환**, 김지민, 문재석, 최성우

@@ -24,11 +24,11 @@
 
 ### 15. 포니언즈, 나의 냉장고	
 - 텐서플로우를 이용한 식재료 인식 후 레시피 추천, 냉장고 식품 관리 app
-- [Github Link]()
+- [Github Link](https://github.com/nahyunie/my-refrigerator)
 - 진은혜, 심정현, 김수진, 최나현
 - 지도교수: 이재문 교수님
-- Youtube 동영상 ()
-- [Youtube Live]()
+- Youtube 동영상 (https://youtu.be/063iKSK1RfA)
+- [Youtube Live](https://youtu.be/va-Izk3M8w0)
 
 ### 17. Han.B, 제목	
 - 임재연, 윤희웅, 이송희, 임란알리프
@@ -66,6 +66,7 @@
 - 송희도, 최명신, 강하영 신수진
 - https://github.com/Myeongsin05/Myeongsin05.git
 - youtube 영상
+- https://www.youtube.com/watch?v=uvn7ou7KTE0
 - 김진환 교수님
 
 ### 41. 조각모음, foodstagram
@@ -73,3 +74,6 @@
 - https://github.com/hscapstonefoodstagram/
 - 안진기, 이경진, 양석진, 박동빈
 - 정인환 교수님
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/Mds_CNL-UpE/0.jpg)](https://youtu.be/Mds_CNL-UpE)
+- [Youtube Live](https://youtu.be/FNGWcO5_ulg)

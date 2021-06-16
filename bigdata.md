@@ -20,8 +20,11 @@
 
 ### 19. YOLO4, Eurecar
 - 딥러닝을 이용한 차량 추적, 사고 판단 알고리즘을 기반으로 한 스마트 주차장 서비스
+- [Github Link](https://github.com/sjh50200/capstone.git)
 - 성종현, 최민준, 김재현, 김태형
 - 정인환 교수님
+- youtube link<br/>
+ [![image](https://user-images.githubusercontent.com/68458245/122097516-bbe23d00-ce4a-11eb-815c-2542e6bb7900.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
 
 ### 21. 엄빌리버블(UMbelievable), 뒤집어집
 - 텍스트마이닝을 이용한 가구 온라인 고객 리뷰 분석 및 추천 웹사이트 
@@ -29,7 +32,7 @@
 - 김지연, 김민경, 김정현, 박세희
 - 엄종석 교수님
 - youtube 영상<br/>
- [![제목](https://img.youtube.com/vi/_xDo0Zrx8K0/0.jpg)](https://www.youtube.com/watch?v=_xDo0Zrx8K0)
+ [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
 
 ### 26. 시니유니, 소분(소고기분류기)
 - 신재영.이지훈,이건희,윤지우
@@ -39,7 +42,7 @@
 ### 30. Michine running, 제목
 - 송현준, 김영우, 김초영, 서찬호
 - 최병수 교수님
- 
+
 ### 42. 팀명, 제목
 - 김주현
 - 정인상 교수님

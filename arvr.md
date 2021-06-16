@@ -11,14 +11,16 @@
 
 ### 7. 28주후, Stand Alone
 - 좀비 아포칼립스에서 괴한들에게 납치된 아내를 구하러 가는 VR 게임
+- [GitHub Link](https://github.com/28WeeksLater/ZombieGame)
 - **민경환**, 김태건, 나상혁, 박찬형  
 - 김진모 교수님
 - [캡스톤 디자인 발표 영상](https://youtu.be/cADNHF9ddQo)
-- [YouTube Live](https://www.youtube.com/watch?v=HWuueJuS3YM)
+- [YouTube Live](https://youtu.be/iDiKts9F1sQ)
 
 ### 9. 성원사람, HSB
 - 최적의 경로로 빠르고 쉽게 책을 찾을 수 있는 증강현실을 이용한 도서관 스마트 시스템 
 - **김사라**, 양우성, 오아람, 허예원
+- [GitHub Link](https://github.com/diddntjd99/ARLibrary)
 - 계희원 교수님
 - YouTube 동영상 <br>
 [![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
