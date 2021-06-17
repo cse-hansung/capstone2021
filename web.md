@@ -76,6 +76,7 @@ Upload 예정
 - 김재혁, 김동규, 명선호, 박정인
 - 권영미 교수님
 - [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
+- [YouTube Live](https://youtu.be/hxQd1yiGbKM)
 
 ### 34. Hans, 한성대학교 챗봇
 - **유상환**, 김지민, 문재석, 최성우
