@@ -39,6 +39,7 @@
 - 내용: VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
 - **박종찬** 정지완, 홍승현 
 - 김진모 교수님
+- [Github Link](https://github.com/FOJF/Green-Sweet-Home)
 - [YouTube Live](https://youtu.be/tno9Az0KdGM)
 
 ### 35. Byerus, Last Hope
