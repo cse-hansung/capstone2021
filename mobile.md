@@ -19,8 +19,13 @@
 - [Youtube Live]()
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
-- **이수연**, 최지호, 민경진, 이규영
+- 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템
+- [Github Link](https://pingkka.github.io/jekyll/update/capstone-links/)
+- 이수연, 최지호, 민경진, 이규영
 - 지도교수 : 황기태 교수님
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/Cfrx30be8mk/0.jpg)](https://youtu.be/Cfrx30be8mk)
+- [Youtube Live](https://youtu.be/pq9Y4DAeZs8)
 
 ### 15. 포니언즈, 나의 냉장고	
 - 텐서플로우를 이용한 식재료 인식 후 레시피 추천, 냉장고 식품 관리 app
