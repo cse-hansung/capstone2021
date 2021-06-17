@@ -25,11 +25,15 @@
 - 임재연, 윤희웅, 이송희, 임란알리프
 - 엄종석 교수님
 
-### 25. 팀명, 제목	
+### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
 - 빅데이터 기반 미팅 장소 추천 애플리케이션
-- https://github.com/Capstone-Medium-Distance-App/Capstone-MDA-Android
-- 유승원, 심규도, 최재석, 구정훈
+- **유승원**, 심규도, 최재석, 구정훈
 - 정인환 교수님
+- [깃허브 주소](https://github.com/Capstone-Medium-Distance-App)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/qxeK36ShfQE/0.jpg)](https://www.youtube.com/watch?v=qxeK36ShfQE)
+- [유튜브 라이브](https://youtu.be/QT1ktNucRK0)
+
 
 ### 27. 팀명, 제목	
 - 김채린	
