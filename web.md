@@ -75,6 +75,8 @@ Upload 예정
 - 김재혁, 김동규, 명선호, 박정인
 - 권영미 교수님
 - [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 최종 발표]](https://youtu.be/SXLIkEwFVqA)
 - [YouTube Live](https://youtu.be/hxQd1yiGbKM)
 
 ### 34. Hans, 한성대학교 챗봇
