@@ -32,7 +32,7 @@
 - 계희원 교수님
 - Youtube 동영상 <br>
 [![Advanced PACS](https://img.youtube.com/vi/lqTof-VWMWo/0.jpg)](https://youtu.be/lqTof-VWMWo)
-- [YouTube Live](https://www.youtube.com/channel/UCIoer_qq4XcNeTfaOnZfxCQ/featured)
+- [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
 
 ### 29. 팀명, 제목
