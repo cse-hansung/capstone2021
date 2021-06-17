@@ -46,9 +46,12 @@
 - 김진모 교수님
 - 추후 추가
 
-### 37. 팀명, 제목
-- 김기민 
-- 이항찬 교수님
+### 37. 식빵이 좋아, 제목
+내용: 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
+차신영, 김기민, 전병관, 김민주
+GitHub Link
+이항찬 교수님
+추후 추가
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
