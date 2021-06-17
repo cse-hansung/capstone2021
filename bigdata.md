@@ -1,9 +1,12 @@
 ## 인공지능, 빅데이터 분야
 
 ### 10. Investock, Antenna
-- 주가 데이터를 수집하여 딥러닝을 통한 주가 예측과 백테스팅을 제공하는 웹사이트와 앱
+- 주가 데이터를 수집하여 딥러닝을 통한 주가 예측과 백테스팅을 제공하는 웹 사이트와 앱
 - 최준용, 유보근, 장민석, 정세계
 - 김성동 교수님
+- [Github link(프로젝트 소스코드)]([hansung-capstone-investock/antenna_Server (github.com)](https://github.com/hansung-capstone-investock/antenna_Server))
+- [소개 영상(Youtube link)](https://youtu.be/z3d9mpc3R3M?t=0s)
+- [Youtube live](https://youtu.be/2hexRQMiLVE)
 
 ### 13. 니코니코디, 오늘의 코디
 - 빅데이터를 기반으로 날씨에 맞는 코디 추천 서비스
