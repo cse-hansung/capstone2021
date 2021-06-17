@@ -32,7 +32,7 @@
 - [Github Link](https://github.com/nahyunie/my-refrigerator)
 - 진은혜, 심정현, 김수진, 최나현
 - 지도교수: 이재문 교수님
-- Youtube 동영상 (https://youtu.be/063iKSK1RfA)
+- [Youtube 동영상](https://youtu.be/063iKSK1RfA)
 - [Youtube Live](https://youtu.be/va-Izk3M8w0)
 
 ### 17. Han.B, Han.B 
@@ -65,9 +65,9 @@
 ### 32. FEVER, 생활체육 통합 SNS 플랫폼 피버FEVER!
 - 강성모, 박준태, 김민준, Team PlayCarnival
 - 지도교수: 이재문 교수님
-- [Youtube Live](https://youtu.be/BMgMGXTskvc)
 - Youtube 동영상 <br/>
 [![제목](https://img.youtube.com/vi/0Z6UMpz0Krc/0.jpg)](https://youtu.be/0Z6UMpz0Krc)
+- [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
 ### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
 - 홍금비, 강예준, 이현정, 임세진
@@ -76,17 +76,16 @@
 ### 38. 마이웨이, Planture	
 - Planture(Plant + Picture)는 머신러닝 모델을 빠르고 쉽고 누구나 쉽게 접근할 수 있도록 하는 웹 기반 툴인 Teachable Machine을 활용하여 식물 분류나 정보를 얻고 여러가지 기능을 담은 앱이다.
 - [Github Link](https://github.com/CherichK/Planture)
-- [Youtube Link](https://youtu.be/0O7F4U1I3CI)
 - 김수연, 이정아, 노예원	
 - 김진환 교수님
+- [Youtube Live](https://youtu.be/0O7F4U1I3CI)
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
 - 송희도, 최명신, 강하영 신수진
-- https://github.com/Myeongsin05/Myeongsin05.git
-- youtube 영상
-- https://www.youtube.com/watch?v=uvn7ou7KTE0
-- [Youtube Live](https://youtu.be/jOLQSSx_YmY)
 - 김진환 교수님
+- [Github link](https://github.com/Myeongsin05/Myeongsin05.git)
+- [Youtube 영상](https://www.youtube.com/watch?v=uvn7ou7KTE0)
+- [Youtube Live](https://youtu.be/jOLQSSx_YmY)
 
 ### 41. 조각모음, foodstagram
 - 음식 인식 서비스	
