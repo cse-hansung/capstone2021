@@ -30,9 +30,13 @@
 - Youtube 동영상 (https://youtu.be/063iKSK1RfA)
 - [Youtube Live](https://youtu.be/va-Izk3M8w0)
 
-### 17. Han.B, 제목	
-- 임재연, 윤희웅, 이송희, 임란알리프
-- 엄종석 교수님
+### 17. Han.B, Han.B 
+- 유저 기반 비교과 프로그램 추천 및 후기 공유 어플리케이션
+- [Github Link](https://github.com/Hansung-HanB/Han.B)
+- **임재연**, 윤희웅, 이송희, 임란알리프
+- 지도교수: 엄종석 교수님
+- Youtube 동영상
+- [Youtube Live]()
 
 ### 25. 팀명, 제목	
 - 빅데이터 기반 미팅 장소 추천 애플리케이션
