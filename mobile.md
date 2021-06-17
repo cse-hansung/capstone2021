@@ -41,7 +41,7 @@
 - **임재연**, 윤희웅, 이송희, 임란알리프
 - 지도교수: 엄종석 교수님
 - Youtube 동영상 <br/>
-[![제목](https://img.youtube.com/vi/feO02TUk09w/0.jpg)](https://www.youtube.com/watch?v=feO02TUk09w)
+[![제목](https://img.youtube.com/vi/nIt8-T_9rtI/0.jpg)](https://www.youtube.com/watch?v=nIt8-T_9rtI)
 - Youtube Live 6/18 12:00 공개가능
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
