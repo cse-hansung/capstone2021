@@ -58,11 +58,10 @@
 [![제목](https://img.youtube.com/vi/EYdPrDzSLew/0.jpg)](https://www.youtube.com/watch?v=EYdPrDzSLew)
 - [Youtube Live](https://www.youtube.com/watch?v=hRvNptqijSU)
 
-### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템 까지! 생활체육 통합 SNS 플랫폼 
-- [Github Link](https://github.com/juntaepark/match-cube-was)
-- 강성모, 박준태, 김민준
-- 이재문 교수님
-- [Youtube 동영상](https://youtu.be/0Z6UMpz0Krc)
+### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템까지! 생활체육 통합 SNS 플랫폼
+- 강성모, 박준태, 김민준, Team PlayCarnival
+- 지도교수: 이재문 교수님
+- Youtube 동영상(https://youtu.be/0Z6UMpz0Krc)
 - [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
 ### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
