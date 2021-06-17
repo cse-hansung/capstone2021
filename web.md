@@ -74,7 +74,7 @@
 - 김성동 교수님
 - [GitHub Link](https://github.com/QuaintCoding/chatbot-dialogflow)
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표]()]()
+[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/sGrDE2R9R9g/0.jpg)](https://youtu.be/sGrDE2R9R9g)
 - [YouTube Live]()
 
 ### 36. HJJH Trip, 여행 일정 관리 서비스
