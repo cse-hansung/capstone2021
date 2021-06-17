@@ -16,11 +16,16 @@
 - 지도교수: 김영웅 교수님
 - Youtube 동영상 <br/>
 [![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0/0.jpg)](https://www.youtube.com/watch?v=gJJ2HyT_Qq0)
-- [Youtube Live]()
+- [Youtube Live](https://www.youtube.com/watch?v=VEarVBI9m_s)
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
-- **이수연**, 최지호, 민경진, 이규영
+- 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템
+- [Github Link](https://pingkka.github.io/jekyll/update/capstone-links/)
+- 이수연, 최지호, 민경진, 이규영
 - 지도교수 : 황기태 교수님
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/Cfrx30be8mk/0.jpg)](https://youtu.be/Cfrx30be8mk)
+- [Youtube Live](https://youtu.be/pq9Y4DAeZs8)
 
 ### 15. 포니언즈, 나의 냉장고	
 - 텐서플로우를 이용한 식재료 인식 후 레시피 추천, 냉장고 식품 관리 app
@@ -35,23 +40,17 @@
 - [Github Link](https://github.com/Hansung-HanB/Han.B)
 - **임재연**, 윤희웅, 이송희, 임란알리프
 - 지도교수: 엄종석 교수님
-- Youtube 동영상
-- [Youtube Live]()
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/4n7lfhfuudY/0.jpg)](https://www.youtube.com/watch?v=4n7lfhfuudY)
+- Youtube Live 6/18 12:00 공개가능
 
-### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
-- 빅데이터 기반 미팅 장소 추천 애플리케이션
-- **유승원**, 심규도, 최재석, 구정훈
-- 정인환 교수님
-- [Github Link](https://github.com/Capstone-Medium-Distance-App)
-- YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/qxeK36ShfQE/0.jpg)](https://www.youtube.com/watch?v=qxeK36ShfQE)
-- [Youtube Live](https://youtu.be/QT1ktNucRK0)
-
-### 27. 황제펭귄, 휴먼트랙킹을 위한 HW와 SW 구현	
-- RC카를 이용해 HW를 구현하고, ROS를 이용해 SW를 구현한다.
-- https://www.youtube.com/watch?v=VgEbZwg3mSQ&feature=youtu.be
+### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
+- RC카, 엔비디아 TX2보드, 아두이노를 이용해 차량의 HW를 구현하고, ROS를 이용해 SW를 구현.
 - 김채린, 유수미, 이승현
-- 황기태 교수님
+- 지도교수: 황기태 교수님
+- [깃허브 주소](https://github.com/HSEmperorPenguin)
+- [Youtube 동영상]()
+- [Youtube 라이브](https://youtu.be/yvWI9rDwJq8)
 
 ### 28. 부키부키, BOOKI
 - 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.
@@ -62,12 +61,12 @@
 [![제목](https://img.youtube.com/vi/EYdPrDzSLew/0.jpg)](https://www.youtube.com/watch?v=EYdPrDzSLew)
 - [Youtube Live](https://www.youtube.com/watch?v=hRvNptqijSU)
 
-### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템 까지! 생활체육 통합 SNS 플랫폼 
-- [Github Link](https://github.com/juntaepark/match-cube-was)
-- 강성모, 박준태, 김민준
-- 이재문 교수님
-- [Youtube 동영상](https://youtu.be/0Z6UMpz0Krc)
+### 32. FEVER, 생활체육 통합 SNS 플랫폼 피버FEVER!
+- 강성모, 박준태, 김민준, Team PlayCarnival
+- 지도교수: 이재문 교수님
 - [Youtube Live](https://youtu.be/BMgMGXTskvc)
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/0Z6UMpz0Krc/0.jpg)](https://youtu.be/0Z6UMpz0Krc)
 
 ### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
 - 홍금비, 강예준, 이현정, 임세진
