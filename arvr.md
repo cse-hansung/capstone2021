@@ -6,7 +6,7 @@
 - **윤석진**, 강보훈, 김기현, 박재빈
 - 김진모 교수님
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/7yD4BIZHV4s/0.jpg)](https://www.youtube.com/watch?v=7yD4BIZHV4s)
+[![[2021 한성대학교 캡스톤디자인] 짬뽕 팀(4) 최종 발표 - Jetkick](https://img.youtube.com/vi/48IjZi64Fek/0.jpg)](https://www.youtube.com/watch?v=48IjZi64Fek)
 - [YouTube Live](https://www.youtube.com/watch?v=_FBDSLkY76I)
 
 ### 7. 28주후, Stand Alone
