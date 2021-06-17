@@ -15,7 +15,7 @@
 - 박병민, 임영선, 정은주, 정지헌
 - 지도교수: 김영웅 교수님
 - Youtube 동영상 <br/>
-[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0&t=2s).jpg)](https://m.youtube.com/watch?v=gJJ2HyT_Qq0&t=2s)
+[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0&t=2s/0.jpg)](https://m.youtube.com/watch?v=gJJ2HyT_Qq0&t=2s)
 - [Youtube Live](https://www.youtube.com/watch?v=VEarVBI9m_s)
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
