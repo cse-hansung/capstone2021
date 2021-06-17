@@ -21,7 +21,7 @@
 - [GitHub Link](https://github.com/equipoida/CapstoneFinal)
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/xTvoeX3piM0/0.jpg)](https://www.youtube.com/watch?v=xTvoeX3piM0)
-- [YouTube Live](https://youtu.be/A1TwCImFyDs)
+- [YouTube Live](https://youtu.be/IcGPTcov_VA)
 
 ### 11. DOSIRAK, 매장 관리 및 재고 조회 프로그램
 - **최태현**, 김승현, 김희원, 이훈노
