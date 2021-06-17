@@ -80,7 +80,7 @@ Upload 예정
 - [GitHub Link](https://github.com/QuaintCoding/chatbot-dialogflow)
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/sGrDE2R9R9g/0.jpg)](https://youtu.be/sGrDE2R9R9g)
-- [YouTube Live]()
+- [YouTube Live] 6/18 12:00 공개가능
 
 ### 36. HJJH Trip, 여행 일정 관리 서비스
 - **박윤하**, 강지윤, 김유진, 서승희
