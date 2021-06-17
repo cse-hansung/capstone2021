@@ -57,6 +57,10 @@
 - [발표영상](https://youtu.be/T5jMIs_stw4)
 - [Youtube live](https://youtu.be/MizNm6T9PuE)
 
-### 44. 팀명, 제목
-- 이경택
+### 44. 유키와 희동, 희동이 옷 찾기
+- 구글 VISION API를 이용한 반려동물 의류 자동 추천 어플리케이션
+- [Github Link](https://github.com/parksy0109/FindingDogClothes/releases/tag/v0.1)
+- 이경택, 최우석, 이동혁, 박수용
 - 장재영 교수님
+- [YOUTUBE 영상](https://youtu.be/dG0AUD68SXM)
+- [YOUTUBE 실시간 스티리밍 주소](https://www.youtube.com/watch?v=F2VaeIvIj4A)
