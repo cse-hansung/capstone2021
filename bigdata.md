@@ -28,7 +28,8 @@
 - [Github Link](https://github.com/sjh50200/capstone.git)
 - 성종현, 최민준, 김재현, 김태형
 - 정인환 교수님
-- youtube link<br/>
+- [Youtube live](https://youtu.be/MTIj9iVW180)
+- Youtube link<br/>
  [![image](https://user-images.githubusercontent.com/68458245/122097516-bbe23d00-ce4a-11eb-815c-2542e6bb7900.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
 
 ### 21. 엄빌리버블(UMbelievable), 뒤집어집
