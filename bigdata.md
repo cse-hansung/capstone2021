@@ -23,9 +23,13 @@
  [![youtube](https://img.youtube.com/vi/8RY9T0TfvYc/0.jpg)](https://www.youtube.com/watch?v=8RY9T0TfvYc)
 
 
-### 16. Spider, Eye2I
+### 16. Spider, EyeToI
+- Image detection을 이용한 시각 장애인 실시간 보행 장애물 알림 시스템
 - 이규, 김민경, 박효은, 최재혁
 - 장재영 교수님
+- [Github Link](https://github.com/tagynedlrb/EyeToI)
+- [Youtube Link](https://youtu.be/VzkE5KsiIgg)
+- Youtube Live : 18일 오전 업데이트 예정
 
 ### 19. YOLO4, Eurecar
 - 딥러닝을 이용한 차량 추적, 사고 판단 알고리즘을 기반으로 한 스마트 주차장 서비스
