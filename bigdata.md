@@ -51,8 +51,8 @@
 - 딥러닝을 이용한 태양광 발전량 예측 AI
 - 김원웅, 강승연, 김주현, 이승빈
 - 정인상 교수님
-- [발표영상] https://youtu.be/T5jMIs_stw4
-- [Youtube live] https://youtu.be/MizNm6T9PuE
+- [발표영상](https://youtu.be/T5jMIs_stw4)
+- [Youtube live](https://youtu.be/MizNm6T9PuE)
 
 ### 44. 팀명, 제목
 - 이경택
