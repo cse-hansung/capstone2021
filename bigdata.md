@@ -38,6 +38,7 @@
 - 엄종석 교수님
 - youtube 영상<br/>
  [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
+- [youtube Live](https://youtu.be/T-poQQ6fDVI)
 
 ### 26. 시니유니, 소분(소고기분류기)
 - 신재영.이지훈,이건희,윤지우
