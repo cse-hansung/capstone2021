@@ -15,8 +15,8 @@
 - 박병민, 임영선, 정은주, 정지헌
 - 지도교수: 김영웅 교수님
 - Youtube 동영상 <br/>
-[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0/0.jpg)](https://www.youtube.com/watch?v=gJJ2HyT_Qq0)
-- [Youtube Live]()
+[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0&t=2s).jpg)](https://m.youtube.com/watch?v=gJJ2HyT_Qq0&t=2s)
+- [Youtube Live](https://www.youtube.com/watch?v=VEarVBI9m_s)
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
 - 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템
@@ -45,11 +45,9 @@
 
 ### 27. 황제펭귄, 휴먼트랙킹을 위한 HW와 SW 구현	
 - RC카를 이용해 HW를 구현하고, ROS를 이용해 SW를 구현한다.
+- https://www.youtube.com/watch?v=VgEbZwg3mSQ&feature=youtu.be
 - 김채린, 유수미, 이승현
 - 황기태 교수님
-- [깃허브 주소] (https://github.com/HSEmperorPenguin)
-- [Youtube 동영상] ()
-- [Youtube 라이브] (https://youtu.be/yvWI9rDwJq8)
 
 ### 28. 부키부키, BOOKI
 - 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.
@@ -60,12 +58,12 @@
 [![제목](https://img.youtube.com/vi/EYdPrDzSLew/0.jpg)](https://www.youtube.com/watch?v=EYdPrDzSLew)
 - [Youtube Live](https://www.youtube.com/watch?v=hRvNptqijSU)
 
-### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템까지! 생활체육 통합 SNS 플랫폼
+### 32. FEVER, 생활체육 통합 SNS 플랫폼 피버FEVER!
 - 강성모, 박준태, 김민준, Team PlayCarnival
 - 지도교수: 이재문 교수님
+- [Youtube Live](https://youtu.be/BMgMGXTskvc)
 - Youtube 동영상 <br/>
 [![제목](https://img.youtube.com/vi/0Z6UMpz0Krc/0.jpg)](https://youtu.be/0Z6UMpz0Krc)
-- [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
 ### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
 - 홍금비, 강예준, 이현정, 임세진
