@@ -61,12 +61,22 @@
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://www.youtube.com/watch?v=vNisqauU2_s)
 - [Youtube Live]() 
 
-### 45. fUnity, 제목
+### 45. fUnity, RUINAS
+- 유적을 탐사해 나가는  로그라이크형 RPG 게임
+
+- [Github Link](https://github.com/rnjswo9578/capstone-design)
+
 - 박권재, 이종인, 설홍환, 김현중
+
 - 이항찬 교수님
-- 간단한 로그라이크형 RPG 게임
-- 추후 추가 예정
-- 
+
+- YouTube 동영상 <br>
+
+  [![YouTube 동영상](https://img.youtube.com/vi/RL4EX9SM3AM/0.jpg)](https://youtu.be/RL4EX9SM3AM) 
+
+- 유튜브 라이브 공개 가능 시간: 12시 20분 [--]()
+
+- 임시 라이브 링크  [kakaoTV Link](https://tv.kakao.com/search?q=rnjswo9578)
 
 ### 46. 팀명, 제목
 - 박준형 
