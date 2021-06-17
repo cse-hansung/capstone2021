@@ -45,12 +45,12 @@
 - Youtube Live 6/18 12:00 공개가능
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
-- RC카, 엔비디아 TX2보드, 아두이노를 이용해 차량의 HW를 구현하고, ROS를 이용해 SW를 구현.
+- 휴먼 트래킹을 위한 자율주행 자동차 하드웨어와 소프트웨어 구현
 - 김채린, 유수미, 이승현
 - 지도교수: 황기태 교수님
-- [깃허브 주소](https://github.com/HSEmperorPenguin)
-- [Youtube 동영상]()
-- [Youtube 라이브](https://youtu.be/yvWI9rDwJq8)
+- [Github Link](https://github.com/HSEmperorPenguin/EmperorPenguin)
+- [Youtube 동영상](https://youtu.be/WwQrHVKJukk)
+- [Youtube Live](https://youtu.be/yvWI9rDwJq8)
 
 ### 28. 부키부키, BOOKI
 - 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.
