@@ -54,9 +54,14 @@
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
 - [YouTube Live]()
 
-### 22. We'Re Cycle, AI 서비스 제공 웹 애플리케이션
-- 최영은
+### 22. We'Re Cycle, AI 환경 서비스 제공 웹 애플리케이션
+- 최영은, 진성진, 조민선, 육서정
 - 이석기 교수님
+- [GitHub Link](https://github.com/uuu0105/werecycle)
+- YouTube 동영상 <br>
+Upload 예정
+- [YouTube Libe] 6/18 12:00 공개가능
+
 
 ### 24. Pointer, React를 이용한 컴퓨터 공학부 내 트랙 추천
 - 강아영, 강희봄, 김도희, 오영준
