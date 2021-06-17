@@ -50,7 +50,7 @@
 - 김채린, 유수미, 이승현
 - 지도교수: 황기태 교수님
 - Youtube 동영상 <br/>
- [![제목](https://user-images.githubusercontent.com/48851895/122365199-6fefdf00-cf95-11eb-8a44-9ccff5e6adae.png)](https://youtu.be/WwQrHVKJukk)
+ [![제목](https://user-images.githubusercontent.com/48851895/122365199-6fefdf00-cf95-11eb-8a44-9ccff5e6adae.png)](https://youtu.be/GPuxQT72S8g)
 - [Youtube Live](https://youtu.be/yvWI9rDwJq8)
 
 ### 28. 부키부키, BOOKI
