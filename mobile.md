@@ -58,8 +58,11 @@
 - 홍금비 	
 - 황기태 교수님
 
-### 38. 팀명, 제목	
-- 이정아	
+### 38. 마이웨이, Planture	
+- Planture(Plant + Picture)는 머신러닝 모델을 빠르고 쉽고 누구나 쉽게 접근할 수 있도록 하는 웹 기반 툴인 Teachable Machine을 활용하여 식물 분류나 정보를 얻고 여러가지 기능을 담은 앱이다.
+- [Github Link](https://github.com/CherichK/Planture)
+- [Youtube Link](https://youtu.be/0O7F4U1I3CI)
+- 김수연, 이정아, 노예원	
 - 김진환 교수님
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
