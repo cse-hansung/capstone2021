@@ -47,7 +47,7 @@
 - **안창현**, 임준성, 최유민, 박명석  
 - 김진모 교수님
 - [GitHub Link](https://github.com/727207e/CapStone_Roguelike)
-- [Youtube 발표 영상]()
+- [Youtube 발표 영상](https://youtu.be/HmMQrAQPd8g)
 - [YouTube Live](https://youtu.be/OFi87XtcbrA)
 
 ### 37. 식빵이 좋아, 제목
