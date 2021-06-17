@@ -41,6 +41,15 @@
  [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
 - [youtube Live](https://youtu.be/T-poQQ6fDVI)
 
+### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
+- 빅데이터 기반 미팅 장소 추천 애플리케이션
+- **유승원**, 심규도, 최재석, 구정훈
+- 정인환 교수님
+- [Github Link](https://github.com/Capstone-Medium-Distance-App)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/qxeK36ShfQE/0.jpg)](https://www.youtube.com/watch?v=qxeK36ShfQE)
+- [Youtube Live](https://youtu.be/QT1ktNucRK0)
+
 ### 26. 시니유니, 소분(소고기분류기)
 - 신재영.이지훈,이건희,윤지우
 - 이재문 교수님

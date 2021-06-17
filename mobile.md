@@ -43,15 +43,6 @@
 - Youtube 동영상
 - [Youtube Live]()
 
-### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
-- 빅데이터 기반 미팅 장소 추천 애플리케이션
-- **유승원**, 심규도, 최재석, 구정훈
-- 정인환 교수님
-- [Github Link](https://github.com/Capstone-Medium-Distance-App)
-- YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/qxeK36ShfQE/0.jpg)](https://www.youtube.com/watch?v=qxeK36ShfQE)
-- [Youtube Live](https://youtu.be/QT1ktNucRK0)
-
 ### 27. 황제펭귄, 휴먼트랙킹을 위한 HW와 SW 구현	
 - RC카를 이용해 HW를 구현하고, ROS를 이용해 SW를 구현한다.
 - https://www.youtube.com/watch?v=VgEbZwg3mSQ&feature=youtu.be
