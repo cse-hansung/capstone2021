@@ -35,11 +35,12 @@
 - [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
 
-### 29. O-NITY, Green Sweet Home
-- 내용: VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
+### 29. Onity, Green Sweet Home
+- VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
 - **박종찬** 정지완, 홍승현 
 - 김진모 교수님
-- [Github Link](https://github.com/FOJF/Green-Sweet-Home)
+- [GitHub Link](https://github.com/FOJF/Green-Sweet-Home)
+- [![Green Sweet Home 발표 영상](https://img.youtube.com/vi/_aIbjnWPXYM/0.jpg)](https://www.youtube.com/watch?v=_aIbjnWPXYM)
 - [YouTube Live](https://youtu.be/tno9Az0KdGM)
 
 ### 35. Byerus, Last Hope
