@@ -67,6 +67,7 @@
 - https://github.com/Myeongsin05/Myeongsin05.git
 - youtube 영상
 - https://www.youtube.com/watch?v=uvn7ou7KTE0
+- [Youtube Live](https://youtu.be/jOLQSSx_YmY)
 - 김진환 교수님
 
 ### 41. 조각모음, foodstagram
