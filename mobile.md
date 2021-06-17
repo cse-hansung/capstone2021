@@ -46,9 +46,9 @@
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
 - 휴먼 트래킹을 위한 자율주행 자동차 하드웨어와 소프트웨어 구현
+- [Github Link](https://github.com/HSEmperorPenguin/EmperorPenguin)
 - 김채린, 유수미, 이승현
 - 지도교수: 황기태 교수님
-- [Github Link](https://github.com/HSEmperorPenguin/EmperorPenguin)
 - Youtube 동영상 <br/>
  [![제목](https://user-images.githubusercontent.com/48851895/122365199-6fefdf00-cf95-11eb-8a44-9ccff5e6adae.png)](https://youtu.be/WwQrHVKJukk)
 - [Youtube Live](https://youtu.be/yvWI9rDwJq8)
@@ -81,15 +81,15 @@
 - [Youtube Live](https://youtu.be/0O7F4U1I3CI)
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
+- [Github link](https://github.com/Myeongsin05/Myeongsin05.git)
 - 송희도, 최명신, 강하영 신수진
 - 김진환 교수님
-- [Github link](https://github.com/Myeongsin05/Myeongsin05.git)
 - [Youtube 영상](https://www.youtube.com/watch?v=uvn7ou7KTE0)
 - [Youtube Live](https://youtu.be/jOLQSSx_YmY)
 
 ### 41. 조각모음, foodstagram
 - 음식 인식 서비스	
-- https://github.com/hscapstonefoodstagram/
+- [Github Link](https://github.com/hscapstonefoodstagram/)
 - 안진기, 이경진, 양석진, 박동빈
 - 정인환 교수님
 - Youtube 동영상 <br/>
