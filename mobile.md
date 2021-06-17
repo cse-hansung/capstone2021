@@ -78,6 +78,7 @@
 - [Github Link](https://github.com/CherichK/Planture)
 - 김수연, 이정아, 노예원	
 - 김진환 교수님
+- [Youtube 동영상](https://youtu.be/tAnNuym4Raw)
 - [Youtube Live](https://youtu.be/0O7F4U1I3CI)
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
