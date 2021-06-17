@@ -56,9 +56,14 @@
 - 이재문 교수님
 - [Github Link](https://github.com/Shinjaeyoung97/BeefClassifier)
 
-### 30. Michine running, 제목
+### 30. Michine running, 마코프 전환 모형을 활용한 교통량 시뮬레이션
+- 마코프 전환 모형 및 머신 러닝을 이용하여 고속도로의 교통량과 평균속도 시뮬레이션
 - 송현준, 김영우, 김초영, 서찬호
 - 최병수 교수님
+- [Github Link](https://github.com/laerl123/Michine_Learning_Capstone)
+- Youtube Live 링크는 06-17 11:00에 개설 가능
+- youtube 영상 <br/>
+   [![youtube](https://img.youtube.com/vi/gs-AEdxMe18/0.jpg)](https://www.youtube.com/watch?v=gs-AEdxMe18)
 
 ### 42. BigPy, 태양광 발전량 예측
 - 딥러닝을 이용한 태양광 발전량 예측 AI
