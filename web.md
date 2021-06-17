@@ -91,6 +91,6 @@ Upload 예정
 - [YouTube Live](https://youtu.be/N8uVDuWjIbQ)
 
 ### 43. 팀명, 제목
-- 한민재
+- 한민재, 이석현, 임정완, 임지연
 - 권영미 교수님
-
+- 
