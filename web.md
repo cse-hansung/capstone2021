@@ -45,9 +45,8 @@
 - 장재영 교수님
 - [GitHub Repository Link](https://github.com/hsu18/Capstone)
 - [GitHub Release Link](https://github.com/hsu18/Capstone/releases/tag/v0.0.1)
-- - YouTube 동영상 <br> 
-[![캡스톤 디자인 프로젝트 최종 발표]()](https://www.youtube.com/channel/UC9OZOrKOgJxlEjwrJfmTbzA)
-- [YouTube Live] 6/17 17:30 공개가능
+- [캡스톤 디자인 프로젝트 최종 발표](https://www.youtube.com/channel/UC9OZOrKOgJxlEjwrJfmTbzA)
+- [YouTube Live](https://youtu.be/780ineZzYvk)
 
 ### 20. 모자돌(CapStone), 코로나 현황 및 정보 공유 웹 사이트
 - 홍찬휘, 장승현, 정한솔

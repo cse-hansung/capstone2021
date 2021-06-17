@@ -15,7 +15,7 @@
 - 박병민, 임영선, 정은주, 정지헌
 - 지도교수: 김영웅 교수님
 - Youtube 동영상 <br/>
-[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0&t=2s).jpg)](https://m.youtube.com/watch?v=gJJ2HyT_Qq0&t=2s)
+[![제목](https://img.youtube.com/vi/gJJ2HyT_Qq0/0.jpg)](https://www.youtube.com/watch?v=gJJ2HyT_Qq0)
 - [Youtube Live](https://www.youtube.com/watch?v=VEarVBI9m_s)
 
 ### 8. 황아리, 텍스트와 감정 시각화를 동반한 보이스 채팅 시스템	
@@ -40,16 +40,17 @@
 - [Github Link](https://github.com/Hansung-HanB/Han.B)
 - **임재연**, 윤희웅, 이송희, 임란알리프
 - 지도교수: 엄종석 교수님
-- Youtube 동영상
-- [Youtube Live]()
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/4n7lfhfuudY/0.jpg)](https://www.youtube.com/watch?v=4n7lfhfuudY)
+- Youtube Live 6/18 12:00 공개가능
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
 - RC카, 엔비디아 TX2보드, 아두이노를 이용해 차량의 HW를 구현하고, ROS를 이용해 SW를 구현.
 - 김채린, 유수미, 이승현
-- 황기태 교수님
-- [깃허브 주소] (https://github.com/HSEmperorPenguin)
-- [Youtube 동영상] ()
-- [Youtube 라이브] (https://youtu.be/yvWI9rDwJq8)
+- 지도교수: 황기태 교수님
+- [깃허브 주소](https://github.com/HSEmperorPenguin)
+- [Youtube 동영상]()
+- [Youtube 라이브](https://youtu.be/yvWI9rDwJq8)
 
 ### 28. 부키부키, BOOKI
 - 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.

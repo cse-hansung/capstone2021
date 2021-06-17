@@ -31,7 +31,7 @@
 - **권혁우**, 성소명, 김현주
 - 계희원 교수님
 - Youtube 동영상 <br>
-[![Advanced PACS](https://img.youtube.com/vi/lqTof-VWMWo/0.jpg)](https://youtu.be/lqTof-VWMWo)
+[![Advanced PACS 발표 영상](https://img.youtube.com/vi/3dhiCGRXcjk/0.jpg)](https://youtu.be/3dhiCGRXcjk)
 - [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
 
@@ -39,15 +39,19 @@
 - 내용: VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
 - **박종찬** 정지완, 홍승현 
 - 김진모 교수님
+- [YouTube Live](https://youtu.be/tno9Az0KdGM)
 
 ### 35. Byerus, 제목
 - **안창현**, 임준성, 최유민, 박명석  
 - 김진모 교수님
 - 추후 추가
 
-### 37. 팀명, 제목
-- 김기민 
-- 이항찬 교수님
+### 37. 식빵이 좋아, 제목
+내용: 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
+차신영, 김기민, 전병관, 김민주
+GitHub Link
+이항찬 교수님
+추후 추가
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
