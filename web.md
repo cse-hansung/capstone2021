@@ -43,8 +43,11 @@
 ### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트		
 - 지서우, 김지훈, 이동협, 유영
 - 장재영 교수님
-- [GitHub Link](https://github.com/hsu18/Capstone)
-- [YouTube](https://www.youtube.com/watch?v=ACKWt6NZpBc)
+- [GitHub Repository Link](https://github.com/hsu18/Capstone)
+- [GitHub Release Link](https://github.com/hsu18/Capstone/releases/tag/v0.0.1)
+- - YouTube 동영상 <br> 
+[![캡스톤 디자인 프로젝트 최종 발표]()](https://www.youtube.com/channel/UC9OZOrKOgJxlEjwrJfmTbzA)
+- [YouTube Live] 6/17 17:30 공개가능
 
 ### 20. 모자돌(CapStone), 코로나 현황 및 정보 공유 웹 사이트
 - 홍찬휘, 장승현, 정한솔
@@ -73,7 +76,6 @@ Upload 예정
 - 김재혁, 김동규, 명선호, 박정인
 - 권영미 교수님
 - [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
-- [YouTube Live](https://youtu.be/hxQd1yiGbKM)
 
 ### 34. Hans, 한성대학교 챗봇
 - **유상환**, 김지민, 문재석, 최성우
