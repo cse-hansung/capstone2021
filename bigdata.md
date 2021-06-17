@@ -9,9 +9,12 @@
 - [Youtube live](https://youtu.be/2hexRQMiLVE)
 
 ### 13. 니코니코디, 오늘의 코디
-- 빅데이터를 기반으로 날씨에 맞는 코디 추천 서비스
-- 이예찬
+- 날씨와 키워드를 기반으로 한 커뮤니케이션 코디 추천 애플리케이션
+- [Github link](https://github.com/beom0124/Zolpe-05)
+- 이예찬, 남규범, 배수빈, 이준호
 - 이동희 교수님
+- [Youtube 동영상](https://youtu.be/EXQfgBUnOzM)
+- [KakaoTV Live](https://tv.kakao.com/channel/3834329)
 
 ### 14. FADO, 주식 데이터 시각화 서비스
 - 주식 투자자를 위한 기업 데이터 시각화 웹 사이트
