@@ -31,7 +31,7 @@
 - **권혁우**, 성소명, 김현주
 - 계희원 교수님
 - Youtube 동영상 <br>
-[![Advanced PACS](https://img.youtube.com/vi/lqTof-VWMWo/0.jpg)](https://youtu.be/lqTof-VWMWo)
+[![Advanced PACS 발표 영상](https://img.youtube.com/vi/3dhiCGRXcjk/0.jpg)](https://youtu.be/3dhiCGRXcjk)
 - [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
 
