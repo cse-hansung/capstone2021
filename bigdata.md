@@ -15,6 +15,7 @@
 - 박샛별, 박예진, 배연지, 이지영
 - 김영웅 교수님
 - [Github link](https://github.com/TEAM-FADO)
+- [youtube live link](https://youtu.be/4sIQwXmi82I)
 - youtube <br/>
  [![youtube](https://img.youtube.com/vi/8RY9T0TfvYc/0.jpg)](https://www.youtube.com/watch?v=8RY9T0TfvYc)
 

@@ -4,7 +4,7 @@
 - 웹 기반 키오스크 및 매장 관리 서비스
 - **김연지**, 이정현, 박종근, 최수진
 - 김남윤 교수님
-- [GitHub Link](https://github.com/coding-Benny/NTACT/wiki)
+- [GitHub Link](https://github.com/coding-Benny/NTACT#readme)
 - YouTube 동영상 <br>[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/Jv8nx1BdveI/0.jpg)](https://youtu.be/Jv8nx1BdveI)
 - [YouTube Live](https://www.youtube.com/watch?v=gtd6_RQ6X_o)
 
@@ -76,6 +76,7 @@ Upload 예정
 - 김재혁, 김동규, 명선호, 박정인
 - 권영미 교수님
 - [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
+- [YouTube Live](https://youtu.be/hxQd1yiGbKM)
 
 ### 34. Hans, 한성대학교 챗봇
 - **유상환**, 김지민, 문재석, 최성우
