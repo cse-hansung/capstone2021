@@ -70,6 +70,10 @@
 - 유튜브 라이브 공개 가능 시간: 12시 20분 [--]()
 - 임시 라이브 링크  [kakaoTV Link](https://tv.kakao.com/search?q=rnjswo9578)
 
-### 46. 팀명, 제목
-- 박준형 
+### 46. 한성투어,  모바일 앱을 이용한 치매자가진단 & 기능성 게임
+- 박준형, 김예림
 - 허준영 교수님
+- [GitHubLink](https://github.com/june1921/AntiDementia)
+- [Youtube 발표 영상](https://www.youtube.com/watch?v=4Z9jbI69Wo4)
+- [카카오tv 라이브](https://tv.kakao.com/channel/3834230)
+
