@@ -85,6 +85,10 @@ Upload 예정
 ### 36. HJJH Trip, 여행 일정 관리 서비스
 - **박윤하**, 강지윤, 김유진, 서승희
 - 김남윤 교수님
+- [GitHub Link](https://github.com/0atx/capstone)
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/615VkJComIY/0.jpg)](https://youtu.be/615VkJComIY)
+- [YouTube Live](https://youtu.be/N8uVDuWjIbQ)
 
 ### 43. 팀명, 제목
 - 한민재
