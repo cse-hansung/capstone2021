@@ -41,10 +41,13 @@
 - 김진모 교수님
 - [YouTube Live](https://youtu.be/tno9Az0KdGM)
 
-### 35. Byerus, 제목
+### 35. Byerus, Last Hope
+- 바이러스가 창궐한 시대를 배경으로 한 로그라이크 게임
 - **안창현**, 임준성, 최유민, 박명석  
 - 김진모 교수님
-- 추후 추가
+- [GitHub Link](https://github.com/727207e/CapStone_Roguelike)
+- [Youtube 발표 영상]()
+- [YouTube Live](https://youtu.be/OFi87XtcbrA)
 
 ### 37. 식빵이 좋아, 제목
 내용: 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
