@@ -50,9 +50,12 @@
 - 김나희, 김혜빈, 박유림, **변세림**
 - 김영웅 교수님
 
-### 32. FEVER, 제목	
+### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템 까지! 생활체육 통합 SNS 플랫폼 
+- [Github Link](https://github.com/juntaepark/match-cube-was)
 - 강성모, 박준태, 김민준
 - 이재문 교수님
+- [Youtube 동영상](https://youtu.be/0Z6UMpz0Krc)
+- [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
 ### 33. 팀명, 제목	
 - 홍금비 	
