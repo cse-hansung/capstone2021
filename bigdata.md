@@ -5,7 +5,7 @@
 - [Github link(프로젝트 소스코드)](https://github.com/hansung-capstone-investock/antenna_Server)
 - 최준용, 유보근, 장민석, 정세계
 - 김성동 교수님
-- [소개 영상(Youtube link)](https://youtu.be/z3d9mpc3R3M?t=0s)
+- [소개 영상(Youtube link)](https://youtu.be/VhZp_CgXxOY?t=0s)
 - [Youtube live](https://youtu.be/2hexRQMiLVE)
 
 ### 13. 니코니코디, 오늘의 코디
