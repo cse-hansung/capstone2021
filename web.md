@@ -42,7 +42,7 @@
 - [YouTube Live]()
 
 ### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트		
-- 지서우, 김지훈, 이동협, 유영
+- **지서우**, 김지훈, 이동협, 유영
 - 장재영 교수님
 - [GitHub Repository Link](https://github.com/hsu18/Capstone)
 - [GitHub Release Link](https://github.com/hsu18/Capstone/releases/tag/v0.0.1)
