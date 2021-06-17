@@ -40,7 +40,8 @@
 - [Github Link](https://github.com/Hansung-HanB/Han.B)
 - **임재연**, 윤희웅, 이송희, 임란알리프
 - 지도교수: 엄종석 교수님
-- Youtube 동영상 (https://www.youtube.com/watch?v=4n7lfhfuudY)
+- Youtube 동영상 <br/>
+[![제목](https://www.youtube.com/watch?v=4n7lfhfuudY/0.jpg)](https://www.youtube.com/watch?v=4n7lfhfuudY)
 - Youtube Live 6/18 12:00 공개가능
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
