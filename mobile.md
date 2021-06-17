@@ -7,7 +7,7 @@
 - 지도교수: 허준영 교수님
 - Youtube 동영상<br/>
 [![제목](https://img.youtube.com/vi/6YQ6p02MJDg/0.jpg)](https://www.youtube.com/watch?v=6YQ6p02MJDg)
-- [Youtube Live]()
+- [Youtube Live](https://youtu.be/cLP3cym8jG0)
 
 ### 6. LockLock, 얼굴인식 스마트 도어락
 - 얼굴인식 스마트 도어락과 애플리케이션
