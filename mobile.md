@@ -69,9 +69,12 @@
 [![제목](https://img.youtube.com/vi/0Z6UMpz0Krc/0.jpg)](https://youtu.be/0Z6UMpz0Krc)
 - [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
-### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
+### 33. 황금비율, 딥러닝 기반의 얼굴 인식을 적용한 도어락 제어 및 출석 어플리케이션
+- 딥러닝 기반의 얼굴 인식을 적용한 도어락 제어 및 출석 어플리케이션
+- [Github Link](https://github.com/goldenratioh/Capstone)
 - 홍금비, 강예준, 이현정, 임세진
 - 황기태 교수님
+- [Youtube 동영상](https://youtu.be/X50xibOyaMo)
 
 ### 38. 마이웨이, Planture	
 - Planture(Plant + Picture)는 머신러닝 모델을 빠르고 쉽고 누구나 쉽게 접근할 수 있도록 하는 웹 기반 툴인 Teachable Machine을 활용하여 식물 분류나 정보를 얻고 여러가지 기능을 담은 앱이다.
