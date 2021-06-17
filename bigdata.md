@@ -14,6 +14,7 @@
 - 주식 투자자를 위한 기업 데이터 시각화 웹 사이트
 - 박샛별, 박예진, 배연지, 이지영
 - 김영웅 교수님
+- [Github link](https://github.com/TEAM-FADO)
 - youtube <br/>
  [![youtube](https://img.youtube.com/vi/8RY9T0TfvYc/0.jpg)](https://www.youtube.com/watch?v=8RY9T0TfvYc)
 
@@ -27,7 +28,8 @@
 - [Github Link](https://github.com/sjh50200/capstone.git)
 - 성종현, 최민준, 김재현, 김태형
 - 정인환 교수님
-- youtube link<br/>
+- [Youtube live](https://youtu.be/MTIj9iVW180)
+- Youtube link<br/>
  [![image](https://user-images.githubusercontent.com/68458245/122097516-bbe23d00-ce4a-11eb-815c-2542e6bb7900.png)](https://www.youtube.com/watch?v=makJdGuZ-TE)
 
 ### 21. 엄빌리버블(UMbelievable), 뒤집어집
@@ -37,6 +39,7 @@
 - 엄종석 교수님
 - youtube 영상<br/>
  [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
+- [youtube Live](https://youtu.be/T-poQQ6fDVI)
 
 ### 26. 시니유니, 소분(소고기분류기)
 - 신재영.이지훈,이건희,윤지우
@@ -47,9 +50,12 @@
 - 송현준, 김영우, 김초영, 서찬호
 - 최병수 교수님
 
-### 42. 팀명, 제목
-- 김주현
+### 42. BigPy, 태양광 발전량 예측
+- 딥러닝을 이용한 태양광 발전량 예측 AI
+- 김원웅, 강승연, 김주현, 이승빈
 - 정인상 교수님
+- [발표영상](https://youtu.be/T5jMIs_stw4)
+- [Youtube live](https://youtu.be/MizNm6T9PuE)
 
 ### 44. 팀명, 제목
 - 이경택

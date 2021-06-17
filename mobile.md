@@ -30,9 +30,13 @@
 - Youtube 동영상 (https://youtu.be/063iKSK1RfA)
 - [Youtube Live](https://youtu.be/va-Izk3M8w0)
 
-### 17. Han.B, 제목	
-- 임재연, 윤희웅, 이송희, 임란알리프
-- 엄종석 교수님
+### 17. Han.B, Han.B 
+- 유저 기반 비교과 프로그램 추천 및 후기 공유 어플리케이션
+- [Github Link](https://github.com/Hansung-HanB/Han.B)
+- **임재연**, 윤희웅, 이송희, 임란알리프
+- 지도교수: 엄종석 교수님
+- Youtube 동영상
+- [Youtube Live]()
 
 ### 25. 팀명, 제목	
 - 빅데이터 기반 미팅 장소 추천 애플리케이션
@@ -47,8 +51,13 @@
 - 황기태 교수님
 
 ### 28. 부키부키, BOOKI
+- 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.
+- [Github Link](https://github.com/k-nh/mock-bookproject)
 - 김나희, 김혜빈, 박유림, **변세림**
-- 김영웅 교수님
+- 지도교수: 김영웅 교수님
+- Youtube 동영상 <br/>
+[![제목](https://img.youtube.com/vi/EYdPrDzSLew/0.jpg)](https://www.youtube.com/watch?v=EYdPrDzSLew)
+- [Youtube Live](https://www.youtube.com/watch?v=hRvNptqijSU)
 
 ### 32. FEVER, 상대팀 매칭 부터 AI 랭킹 시스템 까지! 생활체육 통합 SNS 플랫폼 
 - [Github Link](https://github.com/juntaepark/match-cube-was)
@@ -57,12 +66,15 @@
 - [Youtube 동영상](https://youtu.be/0Z6UMpz0Krc)
 - [Youtube Live](https://youtu.be/BMgMGXTskvc)
 
-### 33. 팀명, 제목	
-- 홍금비 	
+### 33. 황금비율, 딥러닝 기반의 얼굴인식을 활용한 보안 및 제어 시스템
+- 홍금비, 강예준, 이현정, 임세진
 - 황기태 교수님
 
-### 38. 팀명, 제목	
-- 이정아	
+### 38. 마이웨이, Planture	
+- Planture(Plant + Picture)는 머신러닝 모델을 빠르고 쉽고 누구나 쉽게 접근할 수 있도록 하는 웹 기반 툴인 Teachable Machine을 활용하여 식물 분류나 정보를 얻고 여러가지 기능을 담은 앱이다.
+- [Github Link](https://github.com/CherichK/Planture)
+- [Youtube Link](https://youtu.be/0O7F4U1I3CI)
+- 김수연, 이정아, 노예원	
 - 김진환 교수님
 
 ### 40. PLA, 아두이노를 이용한 안드로이드 주차장 어플	
@@ -70,6 +82,7 @@
 - https://github.com/Myeongsin05/Myeongsin05.git
 - youtube 영상
 - https://www.youtube.com/watch?v=uvn7ou7KTE0
+- [Youtube Live](https://youtu.be/jOLQSSx_YmY)
 - 김진환 교수님
 
 ### 41. 조각모음, foodstagram

@@ -6,7 +6,7 @@
 - **윤석진**, 강보훈, 김기현, 박재빈
 - 김진모 교수님
 - YouTube 동영상 <br>
-[![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/7yD4BIZHV4s/0.jpg)](https://www.youtube.com/watch?v=7yD4BIZHV4s)
+[![[2021 한성대학교 캡스톤디자인] 짬뽕 팀(4) 최종 발표 - Jetkick](https://img.youtube.com/vi/48IjZi64Fek/0.jpg)](https://www.youtube.com/watch?v=48IjZi64Fek)
 - [YouTube Live](https://www.youtube.com/watch?v=_FBDSLkY76I)
 
 ### 7. 28주후, Stand Alone
@@ -24,7 +24,7 @@
 - 계희원 교수님
 - YouTube 동영상 <br>
 [![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
-- [YouTube Live](https://www.youtube.com/channel/UCfqej15qHXjcRmfN8pBLH9w) 
+- [YouTube Live](https://www.youtube.com/watch?v=RifzI3ABLMA) 
 
 ### 23. Medical Web, Advanced PACS
 - 3D Rendering을 이용한 Advanced PACS(의료 영상 저장/전송 시스템)
@@ -32,7 +32,7 @@
 - 계희원 교수님
 - Youtube 동영상 <br>
 [![Advanced PACS](https://img.youtube.com/vi/lqTof-VWMWo/0.jpg)](https://youtu.be/lqTof-VWMWo)
-- [YouTube Live](https://www.youtube.com/channel/UCIoer_qq4XcNeTfaOnZfxCQ/featured)
+- [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
 
 ### 29. 팀명, 제목
