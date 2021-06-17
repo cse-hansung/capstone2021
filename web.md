@@ -101,5 +101,6 @@ Upload 예정
 - 한민재, 이석현, 임정완, 임지연
 - 권영미 교수님
 - [GitHub Link](https://github.com/lim97/lim97.github.io)
-
+- YouTube 동영상 <br>
+[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/m_k5qqerYbs/0.jpg)](https://youtu.be/m_k5qqerYbs)
 - [YouTube Live](https://youtu.be/7Drmxcfq4Mg)
