@@ -63,7 +63,7 @@
 - **김태현**, 이병헌, 서연석, 장희선 
 - 이항찬 교수님
 - Youtube 동영상 <br/>
- [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://www.youtube.com/watch?v=vNisqauU2_s)
+ [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://youtu.be/xs_Jw70G9TA)
 - [Youtube Live]() 업데이트 예정
 
 ### 45. fUnity, RUINAS
