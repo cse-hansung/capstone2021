@@ -90,7 +90,7 @@ Upload 예정
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/615VkJComIY/0.jpg)](https://youtu.be/615VkJComIY)
 - [YouTube Live](https://youtu.be/N8uVDuWjIbQ)
 
-### 43. 팀명, 제목
+### 43. DGAZA, 암호화폐 투자 정보 제공 웹사이트
 - 한민재, 이석현, 임정완, 임지연
 - 권영미 교수님
-- 
+- [GitHub Link](https://github.com/lim97/lim97.github.io)
