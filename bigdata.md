@@ -55,8 +55,11 @@
 - [Youtube Live](https://youtu.be/QT1ktNucRK0)
 
 ### 26. 시니유니, 소분(소고기분류기)
+- tensorflow 와 opencv를 이용한 소고기 부위,마블링등급 판별 어플리케이션
 - 신재영.이지훈,이건희,윤지우
 - 이재문 교수님
+- youtube live 06-17 14시 개설 예정
+- [youtube 발표영상](https://www.youtube.com/watch?v=4TQKlZGaN44)
 - [Github Link](https://github.com/Shinjaeyoung97/BeefClassifier)
 
 ### 30. Michine running, 마코프 전환 모형을 활용한 교통량 시뮬레이션
