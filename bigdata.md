@@ -43,7 +43,7 @@
 - 엄종석 교수님
 - youtube 영상<br/>
  [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
-- [youtube Live](https://youtu.be/T-poQQ6fDVI)
+- [youtube Live](https://youtu.be/4r-xQECziWk)
 
 ### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
 - 빅데이터 기반 미팅 장소 추천 애플리케이션
