@@ -19,8 +19,8 @@
 
 ### 9. 성원사람, HSB
 - 최적의 경로로 빠르고 쉽게 책을 찾을 수 있는 증강현실을 이용한 도서관 스마트 시스템 
-- **김사라**, 양우성, 오아람, 허예원
 - [GitHub Link](https://github.com/diddntjd99/ARLibrary)
+- **김사라**, 양우성, 오아람, 허예원
 - 계희원 교수님
 - YouTube 동영상 <br>
 [![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
@@ -34,29 +34,28 @@
 [![Advanced PACS 발표 영상](https://img.youtube.com/vi/3dhiCGRXcjk/0.jpg)](https://youtu.be/3dhiCGRXcjk)
 - [YouTube Live](https://youtu.be/Ha-_LJlTRX4)
 
-
 ### 29. Onity, Green Sweet Home
 - VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
+- [GitHub Link](https://github.com/FOJF/Green-Sweet-Home)
 - **박종찬** 정지완, 홍승현 
 - 김진모 교수님
-- [GitHub Link](https://github.com/FOJF/Green-Sweet-Home)
 - [![Green Sweet Home 발표 영상](https://img.youtube.com/vi/_aIbjnWPXYM/0.jpg)](https://www.youtube.com/watch?v=_aIbjnWPXYM)
 - [YouTube Live](https://youtu.be/tno9Az0KdGM)
 
 ### 35. Byerus, Last Hope
 - 바이러스가 창궐한 시대를 배경으로 한 로그라이크 게임
+- [GitHub Link](https://github.com/727207e/CapStone_Roguelike)
 - **안창현**, 임준성, 최유민, 박명석  
 - 김진모 교수님
-- [GitHub Link](https://github.com/727207e/CapStone_Roguelike)
 - [Youtube 발표 영상](https://youtu.be/HmMQrAQPd8g)
 - [YouTube Live](https://youtu.be/OFi87XtcbrA)
 
 ### 37. 식빵이 좋아, 제목
-내용: 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
-차신영, 김기민, 전병관, 김민주
-GitHub Link
-이항찬 교수님
-추후 추가
+- 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
+- GitHub Link
+- 차신영, 김기민, 전병관, 김민주
+- 이항찬 교수님
+- 발표동영상, live 추후 추가
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
@@ -65,7 +64,7 @@ GitHub Link
 - 이항찬 교수님
 - Youtube 동영상 <br/>
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://www.youtube.com/watch?v=vNisqauU2_s)
-- [Youtube Live]() 
+- [Youtube Live]() 업데이트 예정
 
 ### 45. fUnity, RUINAS
 - 유적을 탐사해 나가는  로그라이크형 RPG 게임
@@ -78,9 +77,8 @@ GitHub Link
 - 임시 라이브 링크  [kakaoTV Link](https://tv.kakao.com/search?q=rnjswo9578)
 
 ### 46. 한성투어,  모바일 앱을 이용한 치매자가진단 & 기능성 게임
+- [GitHubLink](https://github.com/june1921/AntiDementia)
 - 박준형, 김예림
 - 허준영 교수님
-- [GitHubLink](https://github.com/june1921/AntiDementia)
 - [Youtube 발표 영상](https://www.youtube.com/watch?v=4Z9jbI69Wo4)
 - [카카오tv 라이브](https://tv.kakao.com/channel/3834230)
-
