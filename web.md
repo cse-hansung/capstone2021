@@ -13,7 +13,7 @@
 - **이지은**, 김소진, 김효진, 오소영
 - 허준영 교수님
 - [GitHub Link](https://github.com/gaemistorming/Capstone-WEB)
-- YouTube 동영상 <br>(https://youtu.be/ANM6FzPGNds)
+- YouTube 동영상 <br>[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/ANM6FzPGNds/maxresdefault.jpg)](https://youtu.be/ANM6FzPGNds)
 - [YouTube Live](https://youtu.be/spTkOeXQlGQ)
 
 ### 5. CMAN, 덕분에(의료 커뮤니티)
