@@ -52,7 +52,7 @@
 - [GitHub Link](https://github.com/seunghyun-Jang/corona-inside)
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
-- [YouTube Live]()
+- [YouTube Live](https://youtu.be/vcFakfuUG9Q)
 
 ### 22. We'Re Cycle, AI 환경 서비스 제공 웹 애플리케이션
 - 최영은, 진성진, 조민선, 육서정
