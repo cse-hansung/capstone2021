@@ -23,7 +23,7 @@
 - 김영웅 교수님
 - Youtube 동영상 <br/>
  [![youtube](https://img.youtube.com/vi/8RY9T0TfvYc/0.jpg)](https://www.youtube.com/watch?v=8RY9T0TfvYc)
-- [Youtube Live](https://youtu.be/4sIQwXmi82I)
+- [Youtube Live](https://www.youtube.com/channel/UCbhJ0UGP4WLySMptCSlG13A)
 
 ### 16. Spider, EyeToI
 - Image detection을 이용한 시각 장애인 실시간 보행 장애물 알림 시스템
