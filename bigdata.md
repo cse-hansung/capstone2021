@@ -75,7 +75,7 @@
 - 최병수 교수님
 - Youtube 영상 <br/>
    [![youtube](https://img.youtube.com/vi/gs-AEdxMe18/0.jpg)](https://www.youtube.com/watch?v=gs-AEdxMe18)
-- Youtube Live 링크는 06-17 11:00에 개설 가능
+- [KakaoTv Live](https://tv.kakao.com/channel/3834572/video)
 
 ### 42. BigPy, 태양광 발전량 예측
 - 딥러닝을 이용한 태양광 발전량 예측 AI
