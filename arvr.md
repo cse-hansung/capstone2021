@@ -57,7 +57,7 @@
 - 차신영, 김기민, 전병관, 김민주
 - 이항찬 교수님
 - [발표동영상](https://www.youtube.com/watch?v=kjoSdW7X-4s&feature=youtu.be)
-- live 추가 예정
+- [KakaoTv Live](https://tv.kakao.com/channel/3834571)
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
