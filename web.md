@@ -47,7 +47,7 @@
 - 장재영 교수님
 - YouTube 동영상 <br> 
 [![캡스톤 디자인 프로젝트 제안 발표](https://img.youtube.com/vi/swleM4JLy-E/0.jpg)](https://www.youtube.com/watch?v=swleM4JLy-E)
-- [YouTube Live](https://youtu.be/780ineZzYvk)
+- [YouTube Live](https://www.youtube.com/watch?v=FHOLSPosGTY)
 
 ### 20. 모자돌(CapStone), 코로나 현황 및 정보 공유 웹 사이트
 - [GitHub Link](https://github.com/seunghyun-Jang/corona-inside)
