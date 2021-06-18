@@ -6,7 +6,7 @@
 - **김연지**, 이정현, 박종근, 최수진
 - 김남윤 교수님
 - YouTube 동영상 <br>[![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/Jv8nx1BdveI/0.jpg)](https://youtu.be/Jv8nx1BdveI)
-- [YouTube Live](https://www.youtube.com/watch?v=gtd6_RQ6X_o)
+- [YouTube Live](https://youtu.be/bxGa8g5AoM0)
 
 ### 3. 개미스토밍, HealthU
 - AI 홈 트레이닝 웹 애플리케이션
