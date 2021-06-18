@@ -42,7 +42,7 @@
 - 지도교수: 엄종석 교수님
 - Youtube 동영상 <br/>
 [![제목](https://img.youtube.com/vi/nIt8-T_9rtI/0.jpg)](https://www.youtube.com/watch?v=nIt8-T_9rtI)
-- [카카오티비 Live](https://tv.kakao.com/channel/3834580/livelink/11032534)
+- [카카오티비 Live](https://tv.kakao.com/channel/3834580)
 
 ### 27. 황제펭귄, 휴먼 트래킹을 위한 자율주행 자동차와 SW 구현	
 - 휴먼 트래킹을 위한 자율주행 자동차 하드웨어와 소프트웨어 구현
