@@ -31,7 +31,7 @@
 - 이규, 김민경, 박효은, 최재혁
 - 장재영 교수님
 - [Youtube 동영상](https://youtu.be/VzkE5KsiIgg)
-- [KakaoTv Live](https://tv.kakao.com/channel/3834561/livelink/11032380)
+- [KakaoTv Live](https://tv.kakao.com/channel/3834561)
 
 ### 19. YOLO4, Eurecar
 - 딥러닝을 이용한 차량 추적, 사고 판단 알고리즘을 기반으로 한 스마트 주차장 서비스
