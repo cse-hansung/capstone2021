@@ -75,7 +75,7 @@
 - 홍금비, 강예준, 이현정, 임세진
 - 황기태 교수님
 - [Youtube 동영상](https://youtu.be/X50xibOyaMo)
-- [Youtube Live](https://youtu.be/ScA-asAN8XU)
+- [Youtube Live](https://www.youtube.com/channel/UCL2wIyhz3Uo7XsoOf41XpDw)
 
 ### 38. 마이웨이, Planture	
 - Planture(Plant + Picture)는 머신러닝 모델을 빠르고 쉽고 누구나 쉽게 접근할 수 있도록 하는 웹 기반 툴인 Teachable Machine을 활용하여 식물 분류나 정보를 얻고 여러가지 기능을 담은 앱이다.
