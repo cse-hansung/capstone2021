@@ -74,7 +74,7 @@
 - 이항찬 교수님
 - YouTube 동영상 <br>
   [![YouTube 동영상](https://img.youtube.com/vi/RL4EX9SM3AM/0.jpg)](https://youtu.be/RL4EX9SM3AM) 
-- [KakaoTV Live](https://tv.kakao.com/channel/3834101)
+- [Youtube Live](https://www.youtube.com/watch?v=-Y--OTqVZjg)
 
 ### 46. 한성투어,  모바일 앱을 이용한 치매자가진단 & 기능성 게임
 - [GitHubLink](https://github.com/june1921/AntiDementia)
