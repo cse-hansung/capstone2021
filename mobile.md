@@ -51,7 +51,7 @@
 - 지도교수: 황기태 교수님
 - Youtube 동영상 <br/>
  [![제목](https://user-images.githubusercontent.com/48851895/122365199-6fefdf00-cf95-11eb-8a44-9ccff5e6adae.png)](https://youtu.be/GPuxQT72S8g)
-- [Youtube Live](https://youtu.be/yvWI9rDwJq8)
+- [Youtube Live](https://www.youtube.com/channel/UCEi1rZCh3KhsqOtzgH0XHBA)
 
 ### 28. 부키부키, BOOKI
 - 음성을 통해 도서를 검색하고 사용자들과 책에 대한 의견을 채팅과 피드를 통해 공유하는 도서어플.
