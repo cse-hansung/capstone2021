@@ -39,7 +39,7 @@
 - 황호영 교수님
 - YouTube 동영상 <br> 
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/f3Ml7c4RU4E/0.jpg)](https://youtu.be/f3Ml7c4RU4E)
-- [YouTube Live]()
+- [YouTube Live](https://www.youtube.com/watch?v=73slpUzaIuc)
 
 ### 18. 세모자, elastic search와 추천 알고리즘을 이용한 자격증 웹 사이트
 - [GitHub Link](https://github.com/hsu18/Capstone)
