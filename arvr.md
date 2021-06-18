@@ -64,7 +64,7 @@
 - 이항찬 교수님
 - Youtube 동영상 <br/>
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://youtu.be/xs_Jw70G9TA)
-- [Youtube Live](https://youtu.be/lmEnFhdHilA)
+- [Youtube Live](https://www.youtube.com/channel/UC1By8LoiEwdIUAn4H-0wdXQ)
 
 ### 45. fUnity, RUINAS
 - 유적을 탐사해 나가는  로그라이크형 RPG 게임
