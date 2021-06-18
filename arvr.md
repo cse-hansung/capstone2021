@@ -49,7 +49,7 @@
 - **안창현**, 임준성, 최유민, 박명석  
 - 김진모 교수님
 - [Youtube 발표 영상](https://youtu.be/HmMQrAQPd8g)
-- [YouTube Live](https://youtu.be/OFi87XtcbrA)
+- [YouTube Live](https://youtu.be/_omvcv_StVk)
 
 ### 37. 식빵이 좋아, 제목
 - 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템

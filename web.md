@@ -55,7 +55,7 @@
 - 이석기 교수님
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/s5AuLqgoOJE/0.jpg)](https://youtu.be/s5AuLqgoOJE)
-- [YouTube Live](https://youtu.be/vcFakfuUG9Q)
+- [YouTube Live](https://youtube.com/watch?v=anrVd024NRA&feature=share)
 
 ### 22. We'Re Cycle, AI 환경 서비스 제공 웹 애플리케이션
 - [GitHub Link](https://github.com/uuu0105/werecycle)
