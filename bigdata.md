@@ -6,7 +6,7 @@
 - 최준용, 유보근, 장민석, 정세계
 - 김성동 교수님
 - [소개 영상(Youtube link)](https://youtu.be/VhZp_CgXxOY?t=0s)
-- [Youtube live](https://youtu.be/iBhTIiJZjKQ)
+- [Youtube live](https://www.youtube.com/channel/UCeZ4pIwSMA4OT6BE8WKpZLg)
 
 ### 13. 니코니코디, 오늘의 코디
 - 날씨와 키워드를 기반으로 한 커뮤니케이션 코디 추천 애플리케이션
