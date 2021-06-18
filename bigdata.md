@@ -91,4 +91,4 @@
 - 이경택, 최우석, 이동혁, 박수용
 - 장재영 교수님
 - [Youtube 영상](https://youtu.be/dG0AUD68SXM)
-- [Youtube Live](https://www.youtube.com/watch?v=F2VaeIvIj4A)
+- [Youtube Live](https://www.youtube.com/channel/UCjdas5lP_OhzW_bcoyk32-Q)
