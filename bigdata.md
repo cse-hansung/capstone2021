@@ -66,7 +66,7 @@
 - 신재영.이지훈,이건희,윤지우
 - 이재문 교수님
 - [Youtube 발표영상](https://www.youtube.com/watch?v=4TQKlZGaN44)
-- [KakaoTv Live](https://tv.kakao.com/channel/3834569/video)
+- [Youtube Live](https://www.youtube.com/watch?v=DpYnsZoRQSI)
 
 ### 30. Michine running, 마코프 전환 모형을 활용한 교통량 시뮬레이션
 - 마코프 전환 모형 및 머신 러닝을 이용하여 고속도로의 교통량과 평균속도 시뮬레이션

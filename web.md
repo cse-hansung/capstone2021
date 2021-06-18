@@ -70,7 +70,7 @@
 - 황호영 교수님
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/IGOehedieXs/0.jpg)](https://youtu.be/IGOehedieXs)
-- [YouTube Live](https://youtu.be/LcG-zL4xHzE)
+- [YouTube Live](https://youtu.be/TNfGVJRo1cs)
 
 ### 31. Perfume Guide, K-Fragrantica (한국인에 맞춘 향수 정보/추천 사이트)
 - [GitHub Link](https://github.com/PerfumeGuide/Capstone_PerfumeGuide.git)
@@ -86,7 +86,7 @@
 - 김성동 교수님
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/sGrDE2R9R9g/0.jpg)](https://youtu.be/sGrDE2R9R9g)
-- [YouTube Live](https://youtu.be/Txz9nmCwXKw)
+- [YouTube Live](https://youtu.be/D1pvoOruXNg)
 
 ### 36. HJJH Trip, 여행 일정 관리 서비스
 - [GitHub Link](https://github.com/0atx/capstone)
