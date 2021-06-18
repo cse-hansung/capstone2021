@@ -90,7 +90,7 @@
 - 송희도, 최명신, 강하영 신수진
 - 김진환 교수님
 - [Youtube 영상](https://www.youtube.com/watch?v=uvn7ou7KTE0)
-- [Youtube Live](https://youtu.be/jOLQSSx_YmY)
+- [Youtube Live](https://youtu.be/PXSwblzQoGs)
 
 ### 41. 조각모음, foodstagram
 - 음식 인식 서비스	

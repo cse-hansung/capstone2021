@@ -94,7 +94,7 @@
 - 김남윤 교수님
 - YouTube 동영상 <br>
 [![캡스톤 디자인 프로젝트 최종 발표](https://img.youtube.com/vi/615VkJComIY/0.jpg)](https://youtu.be/615VkJComIY)
-- [YouTube Live](https://youtu.be/N8uVDuWjIbQ)
+- [YouTube Live](https://youtu.be/h23chXL3b7E)
 
 ### 43. DGAZA, 암호화폐 투자 정보 제공 웹사이트
 - [GitHub Link](https://github.com/lim97/lim97.github.io)
