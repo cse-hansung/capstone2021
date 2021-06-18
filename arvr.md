@@ -61,7 +61,6 @@
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 -  VR 게임을 이용한 특정 재난 사고시(배 침몰, 화재, 지진, 항공기 등) 생존을 위해 필요한 행동을 교육하는 컨텐츠
-- [Github Link](https://github.com/hscapstone)
 - **이병헌**, 서연석, 장희선, 김태현
 - 이항찬 교수님
 - Youtube 동영상 <br/>
