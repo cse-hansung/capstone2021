@@ -24,7 +24,7 @@
 - 계희원 교수님
 - YouTube 동영상 <br>
 [![성원사람 캡스톤 디자인 발표](https://img.youtube.com/vi/_WLetIuQOFY/0.jpg)](https://www.youtube.com/watch?v=_WLetIuQOFY)
-- [YouTube Live](https://youtu.be/PQWOyGKZqYg) 
+- [YouTube Live](https://www.youtube.com/channel/UCfqej15qHXjcRmfN8pBLH9w) 
 
 ### 23. Medical Web, Advanced PACS
 - 3D Rendering을 이용한 Advanced PACS(의료 영상 저장/전송 시스템)
