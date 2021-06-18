@@ -53,10 +53,11 @@
 
 ### 37. 식빵이 좋아, 제목
 - 카메라를 통해 한글을 인식, 그 중 외래어를 추출하여서 순 우리말로 번역해주는 시스템
-- GitHub Link
+- [GitHub Link](https://github.com/kimkim5253/CapstoneDesignCode)
 - 차신영, 김기민, 전병관, 김민주
 - 이항찬 교수님
-- 발표동영상, live 추후 추가
+- [발표동영상](https://www.youtube.com/watch?v=kjoSdW7X-4s&feature=youtu.be)
+- live 추가 예정
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
