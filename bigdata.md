@@ -79,6 +79,7 @@
 
 ### 42. BigPy, 태양광 발전량 예측
 - 딥러닝을 이용한 태양광 발전량 예측 AI
+- [Github Link](https://github.com/dnjsdnde/capstone_bigpy)
 - 김원웅, 강승연, 김주현, 이승빈
 - 정인상 교수님
 - [발표영상](https://youtu.be/T5jMIs_stw4)
