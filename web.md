@@ -62,7 +62,7 @@
 - 최영은, 진성진, 조민선, 육서정
 - 이석기 교수님
 - [YouTube 동영상](https://youtu.be/Ngrdjl8FiJ0)
-- [YouTube Live] 6/18 12:00 공개가능
+- [YouTube Live](https://youtu.be/EzYmr5KqvyM)
 
 ### 24. Pointer, React를 이용한 컴퓨터 공학부 내 트랙 추천
 - [GitHub Link](https://github.com/ayrdaz/testreact)
