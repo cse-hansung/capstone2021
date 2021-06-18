@@ -60,13 +60,13 @@
 - [KakaoTv Live](https://tv.kakao.com/channel/3834571)
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
-- VR 게임을 이용한 재난 사고 시 필요한 행동 교육
+-  VR 게임을 이용한 특정 재난 사고시(배 침몰, 화재, 지진, 항공기 등) 생존을 위해 필요한 행동을 교육하는 컨텐츠
 - [Github Link](https://github.com/hscapstone)
-- **김태현**, 이병헌, 서연석, 장희선 
+- **이병헌**, 서연석, 장희선, 김태현
 - 이항찬 교수님
 - Youtube 동영상 <br/>
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://youtu.be/xs_Jw70G9TA)
-- [Youtube Live]() 업데이트 예정
+- [Youtube Live](https://youtu.be/lmEnFhdHilA)
 
 ### 45. fUnity, RUINAS
 - 유적을 탐사해 나가는  로그라이크형 RPG 게임
@@ -75,8 +75,7 @@
 - 이항찬 교수님
 - YouTube 동영상 <br>
   [![YouTube 동영상](https://img.youtube.com/vi/RL4EX9SM3AM/0.jpg)](https://youtu.be/RL4EX9SM3AM) 
-- 유튜브 라이브 공개 가능 시간: 12시 20분 [--]()
-- 임시 라이브 링크  [kakaoTV Link](https://tv.kakao.com/search?q=rnjswo9578)
+- [KakaoTV Live](https://tv.kakao.com/channel/3834101)
 
 ### 46. 한성투어,  모바일 앱을 이용한 치매자가진단 & 기능성 게임
 - [GitHubLink](https://github.com/june1921/AntiDementia)
