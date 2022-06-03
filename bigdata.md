@@ -51,6 +51,13 @@
  [![제목](https://img.youtube.com/vi/KlfTK82cCS8/0.jpg)](https://www.youtube.com/watch?v=KlfTK82cCS8)
 - [youtube Live](https://youtu.be/4r-xQECziWk)
 
+### 24. PETRA(페트라), 꿀벌
+- 빅데이터 기반 개인화 여행일정 추천 웹 어플리케이션
+- [Github Link](https://github.com/HSU-Bee)
+- 한인주, 박종수, 이윤미, 홍재희
+- 정인환 교수님
+- [Link](https://petra-24cb8.web.app)
+
 ### 25. MDA, 빅데이터 기반 미팅 장소 추천 시스템	
 - 빅데이터 기반 미팅 장소 추천 애플리케이션
 - [Github Link](https://github.com/Capstone-Medium-Distance-App)
